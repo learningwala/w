@@ -26,6 +26,4 @@ where I also share my [writings](/writings) (*Educational Writing, Classroom Exp
 **Find me on :** [Instagram](https://www.instagram.com/learningwala/) | [Medium](https://medium.com/learningwala) | [LinkedIn](https://www.linkedin.com/in/learningwalamihir/) | [Linktree](https://linktr.ee/learningwala)
 
 
-Email : [learningwalamihir@gmail.com](mailto:learningwalamihir@gmail.com)
-
-
+Email : [learningwalamihir@gmail.com](mailto:learningwalamihir@gmail.com) | [Schedule a call with Mihir](https://calendly.com/learningwala/30) 
