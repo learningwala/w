@@ -1,0 +1,3 @@
+[submodule "m/public"]
+	path = m/public
+	url = https://github.com/learningwala/learningwala.github.io.git
