@@ -1,13 +1,7 @@
----
-title:
-menu: 
-weight:
----
-
 # Mihir Pathak
 ### Educator, Writer & Earth Eductor Fellow 23'
 
-Email : mihir@learningwala.in  | Mobile : 9537068736
+Email : learningwalamihir@gmail.com  | Mobile : 9537068736
 
 [Linkedin Profile](https://www.linkedin.com/in/learningwalamihir/) | Personal website : https://learningwala.in
 
@@ -16,15 +10,14 @@ Email : mihir@learningwala.in  | Mobile : 9537068736
 ## Top Skills
 
 ```
-Experiential Learning • Nature Education • Project-based Learning • Coaching & Mentoring • Child
-Development & Learning
+Experiential Learning • Nature Education • Project-based Learning 
+Coaching & Mentoring • Child Development & Learning • Applied Theatre
 ```
 
 
 ## Summary
 
-I craft transformative learning journeys for children and young adults through Project based experiential
-methodology.
+I craft transformative learning journeys for children and young adults through Project based experiential methodology.
 
 I believe that sharing one’s passion, providing reflective tools to children, and fostering an environment for dialogue and self-directed learning can be truly transformative.
 
@@ -47,64 +40,56 @@ Music, Long walks, Bird watching, singing and sketching are my favorite time acc
 
 ## Experience
 
-### BeMe - Democratic and Alternate Learning Space - Learning Facilitator
+### LearningWala Studio - Learning Facilitator
 
 ```
-Dec 2022 - Present (1 year 5 months)
+Vadodara (Gujarat) - Jan 2021 - Present (3 years 7 months)
 ```
-BeMe is an open school based in Bangalore, where children direct their own learning.
-It is an effort to create a stimulating, free and democratic environment for children aged 3-16 years.
+𝗪𝗵𝘆 : Only 'schooling' is not enough to empower young people (age - 10 to 18yrs) to thrive in rapidly changing world. (Change in climate, Jobs, Complexity in society)
 
-​* [BeMe Website](https://www.beme.org.in/)
-```
-Skills: Coaching & Mentoring · learning Facilitation · Experiential Learning
-```
+𝗪𝗵𝗮𝘁 : Facilitating young people to be a 'Environmentally conscious Active Citizens’ {Innovators, Entrepreneurs, Change Makers, Self Designed learners}
 
-### Ecobuddy Learning Network - Learning Facilitator
+𝗛𝗼𝘄 : Through project based environment and civic engagement program called ‘local khoji’
 
-```
-Jan 2021 - Present (3 years 4 months)
-```
-- Curating, designing and facilitating unconventional learning experiences for children & young adults
-through Nature - Theatre - Project based - Experiential learning programs (Camps, Workshops, Course, Exhibition, learning Festival, yatras)
-- Inspire & empower educators and organizations to bring connection, joy, attention & choice to the
-learning environment
-- Creating experiential curricula, stories, games, and more
+Via eco clubs, Youth Clubs, Libraries, Public Parks, Community learning centers
 
-```
-Skills: Project-based Learning · Workshop Design · Instructional Design · Nature Education · Project Management · 
-Curriculum Development · Theatre Pedagogy · Experiential Learning · Event Management
-
-```
+* [learningwala Website](https://www.learningwala.in/)
 * [Workshop, Podcast & other experiment](https://learningwala.medium.com/experiments-during-corona-kal-march-2020-to-present-aec5efa35739)
 * [Creative learning in nature’s lap!](https://medium.com/learningwala/creative-learning-in-natures-lap-7c7428eb467a)
 * [LearningWala Winter Camp 2021 ‘આપણું ભોજન’](https://medium.com/learningwala/learningwala-winter-camp-2021-%E0%AA%86%E0%AA%AA%E0%AA%A3%E0%AB%81%E0%AA%82-%E0%AA%AD%E0%AB%8B%E0%AA%9C%E0%AA%A8-4c40d55a2c4e)
 
-### Unstructured Studio - Learning Partner
-```
-Remote - Jul 2020 - Present (3 years 10 months)
 
 ```
-Unstructured Studio, a not-for-profit organization, broadly aiming to develop educational tools and
-experiences to foster creative learning among youth in under-resourced settings.
+Skills: Coaching & Mentoring · learning Facilitation
+Experiential Learning · Project Based Learning
+```
 
-Currently, under the broader vision of "planting seeds of tinkering in young minds," we are developing/
-designing:
-
-- A collaboration platform for young makers and tinkerers
-- A repository of low-cost making and tinkering activities
-- A program to empower teachers to facilitate tinkering activities
+### BeMe - Democratic and Alternate Learning Space - Learning Facilitator
 
 ```
-Skills: learning Facilitation · Program Development · Strategic Planning · Product Development · User Research · Partnership and Development 
+
+Bengaluru - Dec 2022 - March 2024 (1 year 4 months)
+```
+BeMe is an open school based in Bangalore, where children direct their own learning.
+It is an effort to create a stimulating, free and democratic environment for children aged 3-16 years.
+
+I was part of the faculty team & participated in almost every activity happening during school hours or after school hours.
+
+Facilitated elective courses : Nature Detective , One Minute Games. 
+Co - facilitated elective courses : How about seeing Bangalore, Portfolio Making
+Apart from that : Bird watching club, Game club, Internships, Visitors Committee, BMDC Committee, Content team tasks, Facilitating special interest groups
+
+* [BeMe Website](https://www.beme.org.in/)
+ * [Art installation - Exhibition  ‘A Matter of Time - an exploration to see time beyond clock and money’ 11th Feb 2024 ](https://public.3.basecamp.com/p/LZQcbKVxaVXu1iZ9SvLeau2F)
 
 ```
-* [A conversation on tinkering with our learning facilitator Mihir Pathak](https://unstructured.studio/blog/a-conversation-on-tinkering-with-learning-facilitator-mihir-pathak/)
-* [unstructured.studio](https://unstructured.studio/)
+Skills: Coaching & Mentoring · learning Facilitation
+Experiential Learning
+```
 
 ### Eklavya Foundation - Learning Facilitator
 ```
-Jan 2019 - Present (5 years 4 months)
+Remote - Jan 2019 - July 2024 (5 years 7 months)
 
 ```
 Part of the faculty team for the course called 'Child Development, Special Need and Learning' by
@@ -114,14 +99,15 @@ During Workshop I co facilitated following sessions : Piaget's Developmental Sta
 Constructivism, Concept of childhood, learning and emotion
 
 ```
-Skills: Coaching & Mentoring · Child Development · learning Facilitation · Project Management · Curriculum Development · Science of learning
+Skills: Coaching & Mentoring · Child Development · learning Facilitation
+Project Management · Curriculum Development · Science of learning
 
 ```
 	
 
 ### Eklavya Foundation - Learning Facilitator
 ```
-Bhopal - Dec 2022 - Jun 2023 (7 months)
+Bhopal (MP) - Dec 2022 - Jun 2023 (7 months)
 
 ```
 Part of facilitation team of course called - Experiential learning for 21st century in collaboration with Tata
@@ -141,13 +127,14 @@ By subscribing to this course, you will also become a part of a community, led b
 Experts (SMEs). There is a certification awarded on completion of this course.
 
 ```
-Skills: Cohort based course facilitation · Project Management · Curriculum Development · Experiential Learning
+Skills: Cohort based course facilitation · Project Management
+Curriculum Development · Experiential Learning
 
 ```
 
 ### Youth Conservation Action Network - Earth Education Fellow
 ```
-Jun 2022 - Jun 2023 (1 year 1 month)
+Remote - Jun 2022 - Jun 2023 (1 year 1 month)
 
 ```
 The Earth Educators Fellowship brings together 20 young volunteers for the environment, emerging
@@ -175,10 +162,33 @@ Skills: Nature Education
 ```
 * [Meet Erath Educators](https://www.youcan.in/earth-edu)
 
+### Unstructured Studio - Learning Partner
+```
+Remote - Jul 2020 - Sep 2022 (2 years 3 months)
+
+```
+Unstructured Studio, a not-for-profit organization, broadly aiming to develop educational tools and
+experiences to foster creative learning among youth in under-resourced settings.
+
+Currently, under the broader vision of "planting seeds of tinkering in young minds," we are developing/
+designing:
+
+- A collaboration platform for young makers and tinkerers
+- A repository of low-cost making and tinkering activities
+- A program to empower teachers to facilitate tinkering activities
+
+```
+Skills: learning Facilitation · Program Development · Strategic Planning
+Product Development · User Research · Partnership and Development 
+
+```
+* [A conversation on tinkering with our learning facilitator Mihir Pathak](https://unstructured.studio/blog/a-conversation-on-tinkering-with-learning-facilitator-mihir-pathak/)
+* [unstructured.studio](https://unstructured.studio/)
+
 
 ### Eklavya Foundation - Project Associate
 ```
-Pipariya MP - Jan 2022 - Nov 2022 (11 months)
+Pipariya (MP) - Jan 2022 - Nov 2022 (11 months)
 
 ```
 Part of the team engaged in designing learning opportunities, workshops, short courses for teachers
@@ -201,7 +211,9 @@ Other :
 - Meeting Arvind Gupta in person and taking his interview about Eklavya's 50 years
 
 ```
-Skills: learning Facilitation · Language Pedagogy · Instructional Design · Reflective Writing · Pedagogy of Foundation literacy & Numeracy · 
+Skills: learning Facilitation · Language Pedagogy
+Instructional Design · Reflective Writing
+Pedagogy of Foundation literacy & Numeracy 
 Experiential Learning · Event Management · Nature Education 
 
 ```
@@ -209,6 +221,8 @@ Experiential Learning · Event Management · Nature Education
 * [Experiential learning for 21st century - blended course by Tata Trust, Eklavya Foundation](https://www.instagram.com/p/CmjopfUSgb_/)
 * [River Festival - Hoshangabad](https://medium.com/learningwala/%E0%A4%B9%E0%A5%8B%E0%A4%B6%E0%A4%82%E0%A4%97%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6-%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%B8%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%BE-bdcf571604b6)
 * [Eco club](https://www.instagram.com/p/Chh0s9fPzsA/)
+
+
 
 ### Homi Bhabha Centre for Science Education (HBCSE), TIFR - Short Term Visitor
 ```
@@ -228,7 +242,7 @@ Skills: learning Facilitation · Instructional Design · Design Education
 ### Vijapura Vidya Sankul - Project Based learning Facilitator
 
 ```
-Sidsar Gujarat - Aug 2021 - Nov 2021 (4 months)
+Sidsar (Gujarat) - Aug 2021 - Nov 2021 (4 months)
 
 ```
 - Facilitated Project Based Learning Club and Eco Club.
@@ -245,7 +259,7 @@ Skills: Project Based learning · Nature Education · Experiential Learning
 ### Moinee Foundation - Sr. Project Coordinator
 
 ```
-Ahemdabad - Aug 2020 - Aug 2021 (1 year 1 month)
+Ahemdabad (Gujarat) - Aug 2020 - Aug 2021 (1 year 1 month)
 
 ```
 Moinee foundation is working with 30 Government schools and 3 community learning centers in
@@ -257,7 +271,8 @@ Here I am doing
 - Capacity building of coordinators from Community learning Centers
 
 ```
-Skills: learning Facilitation · Team capacity building · Learning Management Systems · Content Creation
+Skills: learning Facilitation · Team capacity building
+Learning Management Systems · Content Creation
 
 ```
 
@@ -265,7 +280,7 @@ Skills: learning Facilitation · Team capacity building · Learning Management S
 
 ### Shishukunj International School - Teaching Fellow
 ```
-Bhuj - Nov 2018 - Aug 2020 (1 year 10 months)
+Bhuj(Gujarat) - Nov 2018 - Aug 2020 (1 year 10 months)
 
 ```
 I was working with children age 6 to 15yr.
@@ -286,7 +301,8 @@ Support fellow teachers to make developmentally appropriate, activity based less
 pedagogical tools for the subjects like language, Maths and Social Science, Environmental Study.
 
 ```
-Skills: learning Facilitation · Nature Education · Experiential Learning · Project Based learning 
+Skills: learning Facilitation · Nature Education
+Experiential Learning · Project Based learning 
 
 ```
 * [Reflective Note - Nov 2019](https://drive.google.com/file/d/0B7XgWD8BwKseYWlqa29jcUh4UVJjc2oyUWRZTTdDX2NFWFp3/view?resourcekey=0-cU9bOppoy7uaEImgsornRA)
@@ -312,7 +328,7 @@ Skills: Project Based learning · Expedition based learning · Outdoor Education
 ### Sarvoday Vidyalaya - Teaching Fellow
 
 ```
-Dharampur Gujarat - May 2016 - May 2018 (2 years 1 month)
+Dharampur (Gujarat) - May 2016 - May 2018 (2 years 1 month)
 
 ```
 I was co-teaching first-grade children. We were trying to teach Gujarati language with ‘whole language
@@ -326,7 +342,7 @@ dialect.
 ### Baxipanch Uttarbuniyadi Vidhyalaya - Teaching Fellow
 
 ```
-Jan 2014 - Dec 2015 (2 years)
+Vadodara (Gujarat) - Jan 2014 - Dec 2015 (2 years)
 
 ```
 I have started a maker space called ‘Prayog Ghar’ where children can come any time and do their
@@ -335,7 +351,9 @@ needs of the community. During that process, we also explored Design Thinking an
 frameworks.
 
 ```
-Skills: learning Facilitation · Project Based learning · Whole language Approach · Pedagogy of Foundation literacy & Numeracy · Nai Taleem Philosophy 
+Skills: learning Facilitation · Project Based learning
+Whole language Approach · Pedagogy of Foundation literacy & Numeracy
+Nai Taleem Philosophy 
 
 ```
 
@@ -344,7 +362,7 @@ Skills: learning Facilitation · Project Based learning · Whole language Approa
 ### InformationWorks Systems and Solutions Private Limited - Educational Content Developer
 
 ```
-Jan 2014 - Jan 2015 (1 year 1 month)
+Vadodara (Gujarat) - Jan 2014 - Jan 2015 (1 year 1 month)
 
 ```
 I was working as part of content development team for online learning system based on multiple
@@ -354,15 +372,17 @@ intelligence theory by Howard Gardner
 * [LearnAPT](https://www.learnapt.com/)
 
 ```
-Skills: Learning Management Systems · Instructional Design · Salse · Content Creation · Curriculum Development · 
-TranslationSkills: Learning Management Systems · Instructional Design · Salse · Content Creation · Curriculum Development · Translation
+Skills: Learning Management Systems · Instructional Design
+Salse · Content Creation · Curriculum Development · 
+TranslationSkills: Learning Management Systems · Instructional Design
+Content Creation · Curriculum Development · Translation
 
 ````
 
 
 ### Gap Year
 ```
- 2011 - 2013 · 2 yrs2011 - 2013 · 2 yrs 
+ Vadodara (Gujarat) - 2011 - 2013 · 2 yrs2011 - 2013 · 2 yrs 
 
 ```
 Explored different fields like marketing, copywriting, website & software development through assistantship.
@@ -381,7 +401,7 @@ The Book Review is a peer-reviewed academic journal covering reviews for books o
 Regarded as India's first English-language review journal, it was founded in January 1976 by Chitra Narayanan, Uma Iyengar, and Chandra Chari.
 
 ```
- The Book Review | Volume XLVI | Number 11 November 2022 · Nov 11, 2022The Book Review | Volume XLVI | Number 11 November 2022 · Nov 11, 2022 
+ The Book Review | Volume XLVI | Number 11 November 2022 
 
 ```
 - [दास्तान-ए-भोजन - मिहिर पाठक दास्तान-ए-भोजन - मिहिर पाठक](https://www.eklavya.in/pdfs/Sandarbh/Sandarbh_139/51-58_Story_of_Food.pdf)
@@ -395,7 +415,7 @@ Sanadarbh Magazine · May 3, 2022
 - [Tinkering: how we can think with our handsTinkering: how we can think with our hands](https://www.teacherplus.org/tinkering-how-we-can-think-with-our-hands/)
 
 ```
-Teacher Plus Magazine · Jun 1, 2022Teacher Plus Magazine · Jun 1, 2022
+Teacher Plus Magazine · Jun 1, 2022
 
 ```
 
@@ -465,7 +485,8 @@ Starting as a volunteer, I had this great opportunity to work on various project
 - Organized community gathering like Gujarati Wikipedia Meetup. Muni Seva Ashram is a well known NGO working in areas like Healthcare, Education, Sustainable development, Renewable energy, etc.
 
 
-### Curriculum Developer
+### {Curriculum Developer}
+
 ### Silver Oak College Of EngineeringSilver Oak College Of Engineering EducationEducation
 
 I was a part of the learning team and helped in the development of innovative teaching-learning methods for students of primary school. I was a part of the learning team and helped in the development of innovative teaching-learning methods for students of primary school. 
@@ -493,7 +514,8 @@ I helped to deploy the different learning technologies by the World Possible in 
 
 Conducted various workshops with homeschool children. 
 
-### Content Development
+### {Content Development}
+
 ### Evidyalay - e learning website
 
 Volunteered for developing, designing and curating educational content for Gujarati e - learning website called evidyalay.net
