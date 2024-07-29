@@ -8,6 +8,7 @@ weight: 5
 
 > Please visit my [instagram profile](https://www.instagram.com/learningwala/) for latest update of my workshops and other work 
 
+* [Local Khoji Event July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
 
 (Online/offline session with children & Educator)
 
