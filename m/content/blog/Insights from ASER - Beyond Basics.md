@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Insights from ASER - Beyond Basics"
 date = "2024-05-22"
 description = "Insights from ASER - Beyond Basics"
-tags = ["learning-resources"]
+tags = ["Public"]
 +++
 
 Recently I read the [ASER ‘Byond Basics’](https://asercentre.org/aser-2023-beyond-basics/) report. It is all about young adults age 14 to 18yrs 

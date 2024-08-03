@@ -4,7 +4,7 @@ title = "I never bought a new laptop"
 date = "2024-03-14"
 description = "My journey of buying refurbished laptop"
 tags = [
-    "Personal"
+    "Public"
 ]
 +++
 

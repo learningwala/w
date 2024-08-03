@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "How can I build something which helps young people thrive ?"
 date = "2024-07-05"
 description = "working with youth"
-tags = ["learning-resources"]
+tags = ["Public"]
 +++
 
 - How can I build something which helps young people thrive ?

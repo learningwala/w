@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "supportive environment to flurish"
 date = "2024-07-26"
 description = "working with youth"
-tags = ["learning-resources"]
+tags = ["Public"]
 +++
 
 

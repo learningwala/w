@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Interesting Podcast / Courses / Blogs "
 date = "2024-05-19"
 description = "Interesting Podcast / Courses / Blogs "
-tags = ["learning-resources"]
+tags = ["Public"]
 +++
 
 These are some podcasts / courses / blogs I go and explore frequently. I will keep adding new things here as I discover them. 

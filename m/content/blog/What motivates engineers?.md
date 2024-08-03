@@ -1,9 +1,9 @@
 +++
 author = "Mihir Pathak"
-title = "How intrinsic motivation comes for work ?"
+title = "What motivates engineers?"
 date = "2024-08-03"
-description = "How intrinsic motivation comes for work ?"
-tags = ["learning-resources"]
+description = "What motivates engineers?"
+tags = ["Public"]
 +++
 I was listening to a podcast from Scaler called ScalerPod. Where they interview CTOs from different startups. They ask about their journey, challenges and how their typical day looks like.
 
@@ -20,7 +20,7 @@ Autonomy
 Mastry 
 Connectedness / Purpose 
 
-**Here you go with episode :**
+**Here you go :**
 
 [14:30](https://www.youtube.com/watch?v=QEZMSbeziEw&t=870s) What motivates engineers?
 
