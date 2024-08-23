@@ -8,7 +8,9 @@ weight: 5
 
 > Please visit my [instagram profile](https://www.instagram.com/learningwala/) for latest update of my workshops and other work 
 
+* [Nature Education Course with Paperball & Vinoba Ashram - 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 * [Local Khoji Event July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
+
 
 (Online/offline session with children & Educator)
 
