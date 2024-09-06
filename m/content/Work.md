@@ -6,10 +6,11 @@ weight: 3
 
 Currently I am working on two projects 
 
-- Khoji Club (Every Sunday) self directed learning place where you can do projects, childern can learn new skills from each other
-- Nature Education workshops with Nidhi (Paper ball - once in a month, Mitali ben's school & Sai's angel learning center - once in a week)
+- **Khoji Club** (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun & more}
+- **Nature Education workshops** with Nidhi (Paper ball - once in a month, Mitali ben's school & Sai's angel learning center - once in a week)
 
 > Please visit [now page](/now) or my [instagram profile](https://www.instagram.com/learningwala/) for latest update of my workshops and other work 
+--------------------------------------------------------------------------------
 
 ### Vadodra - May 2024 to Present 
 

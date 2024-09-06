@@ -8,7 +8,7 @@ weight:
 
 This page is inspired by [nownownow.com](https://nownownow.com/about)
 
-last updated on 31st Aug 2024
+last updated on 6th Sep 2024
 
 ------------------------
 
@@ -17,15 +17,9 @@ last updated on 31st Aug 2024
 My work includes Writing scripts and other digital content for topics related to climate / nature / environment education. 
 Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’
 
-- **Supporting Nidhi for nature education sessions**
+- **Khoji Club** (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun & more}
 
-Right now at three places
-
-- Paper ball education 
-- Sai’s Angel Foundation 
-- Mitali ben’s school 
-
-- **Facilitating Saturday / Khoji Club at Sai’s angel foundation**
+- **Nature Education workshops** with Nidhi (Paper ball - once in a month, Mitali ben's school & Sai's angel learning center - once in a week)
 
 - **Volunteering for Earth Educator fellowship at YouCAN**
 

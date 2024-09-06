@@ -11,7 +11,7 @@ weight: 5
 
 ### Writing and published work
 
-[My learning experiences with children](https://medium.com/learningwala)  (Classroom Experince, Toolkit for facilitation)
+[My learning experiences with children](https://medium.com/learningwala)  (Classroom experiences, Toolkit for facilitation)
 
 [Jashn e Taleem](https://medium.com/jashnetaleem) (यह ब्लॉग मध्यप्रदेश के होशंगाबाद ज़िल्ले में चल रहे प्रोजेक्ट ‘Holistic Initiative Towards Educational Change’ से जुड़े साथीयो के अनुभव और चिंतन को साझा करने की कोशिश है ।)
 
