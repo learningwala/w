@@ -15,7 +15,7 @@ Hi, This is Mihir aka learningwala.
 
 (*supported by [YouCAN](https://www.youcan.in/) & [National Geographic Society](https://www.nationalgeographic.org/society/)*)
 
-I facilitate **experiential learning programs** with children & young adults. 
+I craft transformative learning journeys for children and young adults, through experiential methodologies.
 
 When I'm not with children or educators, I immerse myself in writing poetry or documenting my 'learning experiments' with children.
 
