@@ -17,7 +17,7 @@ Hi, This is Mihir aka learningwala.
 
 I craft transformative learning journeys for children and young adults, through experiential methodologies.
 
-When I'm not with children or educators, I immerse myself in writing poetry or documenting my 'learning experiments' with children.
+When I'm not with children or educators, I immerse myself in writing poetry or documenting my 'learning experiments'.
 
 Welcome to my small space on the internet. 
 This site serves as a portfolio of my [work](/facilitation), 

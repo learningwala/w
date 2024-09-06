@@ -12,7 +12,6 @@ last updated on 31st Aug 2024
 
 ------------------------
 
-![Mihir Pathak](/teacher.jpeg)
 
 - **I am working as senior content developer (environmental domain)** at Pratham Education Foundation.
 My work includes Writing scripts and other digital content for topics related to climate / nature / environment education. 

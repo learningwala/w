@@ -1,21 +1,41 @@
 ---
-title: "Facilitation"
+title: "Work"
 menu: "main"
-weight: 5
+weight: 3
 ---
 
-## Educational Practice
+Currently I am working on two projects 
 
-> Please visit my [instagram profile](https://www.instagram.com/learningwala/) for latest update of my workshops and other work 
+- Khoji Club (Every Sunday) self directed learning place where you can do projects, childern can learn new skills from each other
+- Nature Education workshops with Nidhi (Paper ball - once in a month, Mitali ben's school & Sai's angel learning center - once in a week)
 
-* [Nature Education Course with Paperball & Vinoba Ashram - 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-* [Local Khoji Event July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
+> Please visit [now page](/now) or my [instagram profile](https://www.instagram.com/learningwala/) for latest update of my workshops and other work 
 
+### Vadodra - May 2024 to Present 
 
-(Online/offline session with children & Educator)
+* [Ant Walk | 12th May 2024](https://www.instagram.com/p/C626_y8IXEw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* [Curiosity Map | 18th May 2024](https://www.instagram.com/p/C7G8oi1I9h8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* [Futurology | 26th May 2024](https://www.instagram.com/p/C7aj6DWIYAJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* [Climate and Consumption | 23th June 2024](https://www.instagram.com/p/C8lb8uPokNh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* [Nature Journaling | 23th June 2024](https://www.instagram.com/p/C8l1DiGNEpI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* [Local Khoji Event | 28th July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
+
+* [Nature Education Course with Paperball & Vinoba Ashram - **Session 1** (Facilitated by Nidhi) | 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* [Fun with microscope (Facilitated by Nidhi) | 25th Aug 2024](https://www.instagram.com/p/C-AUyxaSJMN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+* Nature Education Course with Paperball & Vinoba Ashram - **Session 2** (Facilitated by Nidhi) | 1st Sep 2024
+
+### Aug 2023 to Feb 2024
 
 
 *   [Art installation - Exhibition  'A Matter of Time - an exploration to see time beyond clock and money' 11th Feb 2024 ](https://public.3.basecamp.com/p/LZQcbKVxaVXu1iZ9SvLeau2F)
+
 *   [Water Workshop at ATREE 6th & 7th Jan 2024](https://www.instagram.com/p/C14ocvOIbaO/?img_index=1)
     
 *   [Reva - 3 days nature camp with children (23rd Dec to 26th Dec 2023)](https://public.3.basecamp.com/p/T8NpdhzFs4bBNQKHepiv9m6T/vault)
@@ -44,12 +64,14 @@ _**Work apart from nature education**_ 
 
 
 
+
+### Work during Earth Educator Fellowship (June 2022 to July 2023):
+
 >[Earth Educator Fellowship](https://www.youcan.in/earth-edu) was life changing experience for me. 
 >I learnt a lot from all the mentors and peers during our one year journey.
 >I am using this space to put the list of all my work during that one year. 
 >You can read detailed documentation (photos/videos/notes/etc) [here -->](https://public.3.basecamp.com/p/K1MsYmKBMRfR23aLMHDBsAJf/vault)  
 
-_**Work during Earth Educator Fellowship :**_
 
 (Online / offline sessions with children & educators)
 
@@ -85,7 +107,7 @@ _**Work during Earth Educator Fellowship :**_
 *   [How to teach EVS - Webinar (25th July 2022)](https://www.instagram.com/p/Cg9fHBOv7i_/?img_index=1)
         
 
-**Past**
+### Past
 
 *   Nature Camp with children - [Article](https://medium.com/learningwala/બરડાની-ગોદમાં-3e647e5d57ac) | [Short Video](https://youtu.be/nQTp9vdsaj4) 
     
@@ -112,7 +134,7 @@ _**Work during Earth Educator Fellowship :**_
 
 ------------------------------
 
-_**Earth centric story books / research paper / translation work / children's work**_
+### Earth centric story books / research paper / translation work / children's work
 
 *   [Collection of earth centric stories - Curation](https://drive.google.com/file/d/162x9wxpI8izhcLiB0jvQ71JjOv4Kylu5/view?usp=sharing)
 
@@ -130,8 +152,5 @@ _**Earth centric story books / research paper / translation work / children's wo
 [\- क्या प्रकृति समताकारी शिक्षण के लिए सही जगह हो सकती है? (IN HINDI)](https://vikalpsangam.org/article/kya-prakriti-samtakari-shikshan-ke-liye-sahi-jagah-ho-sakti-hai-in-hindi/)
 
 *   Hindi translation of book 'There is nothing there' by Nature Classroom / Nature Conservation Foundation (Coming soon)
-    
-
-**Past** 
 
 *   [Ecobuddy Magazine by children](https://drive.google.com/file/d/1BP4kSWICew311UJA1X0Tb5C7-dWT2Fcj/view)
