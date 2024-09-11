@@ -16,9 +16,11 @@ I like both the episodes so much. Apart from tech both the episodes were filled 
 
 He shared that intrinsic motivation for work comes from three things : 
 
-Autonomy 
-Mastry 
-Connectedness / Purpose 
+- Autonomy 
+
+- Mastry 
+
+- Connectedness / Purpose 
 
 **Here you go :**
 

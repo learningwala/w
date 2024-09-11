@@ -114,7 +114,9 @@ And no Js, No cookies, no tracker, fast, clean, functional, you own the data, yo
   
 
  [- How to Build a Low-tech Website?](https://www.resilience.org/stories/2018-09-27/how-to-build-a-low-tech-website/)
+ 
  [- Stone websites](https://lente.dev/en/posts/stone-websites/)
+ 
  [- This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
 
   

@@ -4,14 +4,6 @@ menu: "main"
 weight: 3
 ---
 
-Currently I am working on two projects 
-
-- **Khoji Club** (Every Sunday) self directed learning place {Self directed projects + workshops + travel + lots fun & more}
-- **Nature Education workshops** with Nidhi (Paper ball - once in a month, Mitali ben's school & Sai's angel learning center - once in a week)
-
-> Please visit [now page](/now) or my [instagram profile](https://www.instagram.com/learningwala/) for latest update of my workshops and other work 
---------------------------------------------------------------------------------
-
 ### Vadodra - May 2024 to Present 
 
 * [Ant Walk | 12th May 2024](https://www.instagram.com/p/C626_y8IXEw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
@@ -32,6 +24,8 @@ Currently I am working on two projects
 
 * Nature Education Course with Paperball & Vinoba Ashram - **Session 2** (Facilitated by Nidhi) | 1st Sep 2024
 
+* Nature & Me session at Mitaliben's school - **Session 1** (Facilitated by Nidhi) | 11th Sep 2024
+
 ### Aug 2023 to Feb 2024
 
 
@@ -51,7 +45,7 @@ Currently I am working on two projects
     
 *   [Nature Education Through Games (Aug 2023)](https://www.instagram.com/p/CwFb5EGoa1M/?img_index=1)
 
-_**Work apart from nature education**_ 
+**Work apart from nature education**
 
 * [How about seeing bengaluru - Elective course at BeMe](https://howaboutseeingbeng.wixsite.com/seeing-bengaluru)  (- Website)  &     [Some Pictures](https://www.instagram.com/p/Cw0LuDDS4nR/?igsh=MXB4dDlzeGkxbTZzMw==)
 * [Facilitation : Experiential learning for 21st century - blended course by Tata Trust, Eklavya Foundation & MGIS - Ahemdabad Dec 2023](https://www.instagram.com/p/CmjopfUSgb_/)
@@ -155,3 +149,10 @@ _**Work apart from nature education**_ 
 *   Hindi translation of book 'There is nothing there' by Nature Classroom / Nature Conservation Foundation (Coming soon)
 
 *   [Ecobuddy Magazine by children](https://drive.google.com/file/d/1BP4kSWICew311UJA1X0Tb5C7-dWT2Fcj/view)
+
+--------------
+
+- [Work](/work) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Now](/now) --> on this page I keep an up-to-date list of the things I'm focussing on and what I'm doing.
+- [About](/about-me) --> on this page I have put highlights from my learning journey and core intention about my work
+- You can visit my [instagram profile](https://www.instagram.com/learningwala/) for pictorial updates.

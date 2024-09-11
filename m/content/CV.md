@@ -1,7 +1,7 @@
 ---
 title: "CV"
-menu: "main"
-weight: 6
+menu: 
+weight: 
 ---
 
 

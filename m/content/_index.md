@@ -21,7 +21,7 @@ When I'm not with children or educators, I immerse myself in writing poetry or d
 
 **Welcome to my small space on the internet.**
 
-This site serves as a portfolio of my [work](/facilitation), where I also share my [writings](/writings) (*Educational Writing, Classroom Experinces*) and [blog](/tags/learning-resources/) (*Short notes on life & learning*).
+This site serves as a portfolio of my [work](/work), where I also share my [writings](/writings) (*Educational Writing, Classroom Experinces*) and [blog](/tags/learning-resources/) (*Short notes on life & learning*).
 
 **Find me on :** [Instagram](https://www.instagram.com/learningwala/) | [Medium](https://medium.com/learningwala) | [LinkedIn](https://www.linkedin.com/in/learningwalamihir/) | [Linktree](https://linktr.ee/learningwala)
 
