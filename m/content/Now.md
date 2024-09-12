@@ -22,6 +22,11 @@ weight:	4
 
 - **Nature Education workshops :** Nidhi got 'Teach for Nature Fellowship' from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
 I am helping her with facilitation tips, planning the session and brainstorming new ideas.
+-----
+
+- **I am working as senior content developer (environmental domain) :** at Pratham Education Foundation.
+My work includes Writing scripts and other digital content for topics related to climate / nature / environment education.
+Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’
 
 ------
 
@@ -30,11 +35,6 @@ I am helping her with facilitation tips, planning the session and brainstorming 
 - **Volunteering for Earth Educator fellowship at [YouCAN](https://www.youcan.in/) :** I am giving my time to be in the interview panel for the fellow selection process of Earth Educator Fellow - new batch.
 
 - **Helping to start a podcast  :** Impana and Satvika (teenagers from BeMe) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.
-
-- **I am working as senior content developer (environmental domain) :** at Pratham Education Foundation.
-My work includes Writing scripts and other digital content for topics related to climate / nature / environment education.
-Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’
-
 
 --------------
 

@@ -32,3 +32,15 @@ He shared that intrinsic motivation for work comes from three things :
 
 
 I resonate with this idea so much so sharing here as a self note :) 
+
+I found some interesting blog posts on same topic :
+
+- [Managing Engineers: Be one with the Team](https://vishnugopal.com/2020/04/11/managing-engineers-be-one-with-the-team/)
+
+- [Managing Engineers: Assorted Tips](https://vishnugopal.com/2020/04/18/managing-engineers-assorted-tips/)
+
+- [Daily Checkins: A tool for Async Work](https://vishnugopal.com/2020/04/27/daily-checkins-a-tool-for-async-work/)
+
+- [A Few Thoughts on Managing Engineers](https://vishnugopal.com/2020/03/28/a-few-thoughts-on-managing-engineers/)
+
+- [Hands on leadership](https://chettyarun.com/posts/handson-leadership/)
