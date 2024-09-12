@@ -13,8 +13,6 @@ Hi, This is Mihir aka learningwala.
 
 **I am an Educator, Writer & [Earth Educator Fellow 23'](https://www.youcan.in/earth-edu)** 
 
-(*supported by [YouCAN](https://www.youcan.in/) & [National Geographic Society](https://www.nationalgeographic.org/society/)*)
-
 I craft transformative learning journeys for children and young adults, through experiential methodologies.
 
 When I'm not with children or educators, I immerse myself in writing poetry or documenting my 'learning experiments'.
