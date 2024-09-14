@@ -38,7 +38,7 @@ Creating digital content on 21st century skills through projects for the project
 
 --------------
 
-- [Work](/work) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Projects](/projects) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
 - [Now](/now) --> on this page I keep an up-to-date list of the things I'm focussing on and what I'm doing.
 - [About](/about-me) --> on this page I have put highlights from my learning journey and core intention about my work
 - You can visit my [instagram profile](https://www.instagram.com/learningwala/) for pictorial updates.

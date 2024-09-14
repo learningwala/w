@@ -15,7 +15,19 @@ I am passionate about co-creating learning journeys with young adults, fostering
 
 *This includes:*
 
-Facilitating theatre and outdoor/nature-based experiential learning programs, projects, residential camps, yatra, internships, weekly meetups, and more.
+Facilitating theater and outdoor/nature-based experiential learning programs, projects, residential camps, yatra, internships, weekly meetups, and more.
+
+*I am interested in :*
+
+- Nature / Outdoor Education
+- Interdisciplinary Project based - self directed - Experiential Learning
+- Life Skills and Socio Emotional Learning
+- Dialogue based - Transformative learning
+- Mentoring teenagers for designing their own learning Journeys & making portfolio
+- Citizen science - open data - civic engagement projects, 
+- Creative writing - art - theater - design and technology
+- Informal learning environment (Library, Maker Space, Studio, Club, Yatra, Camp, Festival)
+- Developing self designed learning space
 
 With a decade of experience, I consult for a number of learning spaces across India.
 
@@ -27,11 +39,15 @@ When I’m not with children or educators, I immerse myself in writing poetry or
 
 Music, long walks, bird watching, singing, and sketching are my favorite time accelerators.
 
+----------
+
 **Highlights from my learning journey:**
 
 - **Self-Directed Learning:** I left formal schooling after the 10th grade and explored web development, content writing, marketing, theatre, and education. Later, I completed my 12th grade and pursued a BA in Sociology as an external student. Read my journey here --> [19 year old village lad drops out of college, starts an alternative education centre](https://yourstory.com/2015/04/learnlabs-mihir-pathak/amp)
  
 - **Diverse Experience with Children:** I’ve worked with children from various backgrounds in cities and rural areas like Bangalore, Mumbai, Kutch, Dharampur, Ahmadabad, and Vadodara.
+
+- **Pedagogy I love :** I love working with Project based learning, Nature / outdoor education, Theater in Education and other experiential learning pedagogies.
 
 - **Innovative Learning Spaces:** I’ve worked with different types of schools, such as CBSE, GSEB, Ashramshalas, democratic schools, and homeschooling groups.
 
@@ -68,7 +84,7 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 -------
 
-- [Work](/work) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Projects](/projects) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
 - [Now](/now) --> on this page I keep an up-to-date list of the things I'm focussing on and what I'm doing.
 - [About](/about-me) --> on this page I have put highlights from my learning journey and core intention about my work
 - You can visit my [instagram profile](https://www.instagram.com/learningwala/) for pictorial updates.

@@ -1,10 +1,18 @@
 ---
-title: "Work"
+title: "Projects"
 menu: "main"
 weight: 3
 ---
 
-### Vadodra - May 2024 to Present 
+**Current Projects :**
+
+- **Khoji Club :** I am facilitating a weekend 'self directed learning club' called 'khoji club' where children do projects, learn new skills from the internet, mentor, peers and more.
+
+- **Nature Education workshops :** Nidhi got 'Teach for Nature Fellowship' from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
+I am helping her with facilitation tips, planning the session and brainstorming new ideas.
+---------
+
+### Vadodra - May 2024 to Present
 
 * [Ant Walk | 12th May 2024](https://www.instagram.com/p/C626_y8IXEw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 

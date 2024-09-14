@@ -19,7 +19,11 @@ When I'm not with children or educators, I immerse myself in writing poetry or d
 
 **Welcome to my small space on the internet.**
 
-This site serves as a portfolio of my [work](/work), where I also share my [writings](/writings) (*Educational Writing, Classroom Experinces*) and [blog](/tags/learning-resources/) (*Short notes on life & learning*).
+- [Projects](/projects) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focussing on and what I'm doing NOW.
+- [About](/about-me) &rarr; On this page I have put highlights from my learning journey and core intention about my work
+- [writings](/writings) &rarr; Educational Writing, Classroom Experinces and more
+- [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
 **Find me on :** [Instagram](https://www.instagram.com/learningwala/) | [Medium](https://medium.com/learningwala) | [LinkedIn](https://www.linkedin.com/in/learningwalamihir/) | [Linktree](https://linktr.ee/learningwala)
 
