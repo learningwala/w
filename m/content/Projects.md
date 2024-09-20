@@ -34,6 +34,8 @@ I am helping her with facilitation tips, planning the session and brainstorming 
 
 * Nature & Me session at Mitaliben's school - **Session 1** (Facilitated by Nidhi) | 11th Sep 2024
 
+* Nature Art session at SAF Community Learning Cenetr (Facilitated by Nidhi) | 14th Sep 2024
+
 ### Aug 2023 to Feb 2024
 
 

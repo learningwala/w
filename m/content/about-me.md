@@ -67,7 +67,9 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 - **Earth Educators Fellowship:** I participated in a year-long fellowship called *Earth Educators*, supported by Youth Conservation Action Network and the National Geographic Society.
 
-- **Faculty Member:** For the past five years, I’ve been part of the faculty team for the *Child Development, Learning & Special Needs* course at the Eklavya Foundation.
+- **Faculty Member:** For the past five years, I’ve been part of the faculty team for the *Child Development, Learning & Special Needs* course at the Eklavya Foundation. I also co facilitated the course called 'Experiential Learning' for secondary schools teachers (in collaboration with Eklavya Foundation & Tata Trust)
+
+- **Fellowship & Grant :** [Earth Educator Fellowship 23'](https://www.youcan.in/earth-edu) , [Gaur & Chopra Escape Velocity Grant 2024 - 25](https://invertedpassion.com/escape-velocity-grant/)
 
 - **Published Works:** My articles on education and learning have been featured in publications like *Teacher Plus* and *Pathshala Bhitar Bahar* by Azim Premji University. (You can read it here --> [Writings](/writings))
 
