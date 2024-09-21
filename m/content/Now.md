@@ -28,19 +28,19 @@ I am helping her with facilitation tips, planning the session and brainstorming 
 My work includes Writing scripts and other digital content for topics related to climate / nature / environment education.
 Creating digital content on 21st century skills through projects for the project called ‘Creativity Club’
 
-------
-
 **Other**
 
 - **Volunteering for Earth Educator fellowship at [YouCAN](https://www.youcan.in/) :** I am giving my time to be in the interview panel for the fellow selection process of Earth Educator Fellow - new batch.
 
 - **Helping to start a podcast  :** Impana and Satvika (teenagers from BeMe) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.
 
+- I am part of faculty team | **Child development, learning and special need - course** | Eklavya Foundation & Institute of Home Economics - Delhi University 
+
 --------------
 
 - [Projects](/projects) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
-- [Now](/now) --> on this page I keep an up-to-date list of the things I'm focussing on and what I'm doing.
+- [Now](/now) --> on this page I keep an up-to-date list of the things I'm focusing on and what I'm doing.
 - [About](/about-me) --> on this page I have put highlights from my learning journey and core intention about my work
 - You can visit my [instagram profile](https://www.instagram.com/learningwala/) for pictorial updates.
 
-Inspiration: [nownownow.com](nownownow.com) | last updated on 11th Sep 2024
+Inspiration: [nownownow.com](nownownow.com) | last updated on 21st Sep 2024
