@@ -18,7 +18,7 @@ I believe that modern education system is a fraudulent system of learning, whose
 > Transformative learning is the expansion of consciousness through the transformation of basic worldview and specific capacities of the self. (Elias, 1997)
 
 **I am passionate about co-creating dialogic spaces with children & young adults. 
-Where we share creative adventures, tools for reflection, and invite them for 'journey of growth'.**
+Where we share creative adventures, tools for reflection, and we embark on 'journey of growth'.**
 
 > Learning does not happen through teaching; it happens through meeting. — Martin Buber
 
