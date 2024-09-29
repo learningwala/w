@@ -16,28 +16,28 @@ weight:	4
 - I am working on my health nowadays. I am trying naturopathy diet + fix routine + daily yoga (suryanamaskar, basic stretching, back exercise, evening walk. I want to start pranayam, meditation, cycling / running)
 
 
-**Work / Projects**
+**Work / Projects :**
 
-**Khoji Club :** I am facilitating a weekend 'self directed learning club' called 'khoji club' where children do projects, learn new skills from the internet, mentor, peers and more.
+**1. Khoji Club :** I am facilitating a weekend 'self directed learning club' called 'khoji club' where children do projects, learn new skills from the internet, mentor, peers and more.
 
-**Nature Education workshops :** Nidhi got 'Teach for Nature Fellowship' from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
+**2. Nature Education workshops :** Nidhi got 'Teach for Nature Fellowship' from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
 I am helping her with facilitation tips, planning the session and brainstorming new ideas.
 
-**Child Development, Learning and Special needs** (Course for educator and people working with children run by Eklavya Foundation & Institute of Home Economics - Delhi University) : I am part of faculty team since last 5 years. This year also I am part of the team and announcing the 7th cohort in Oct 2024.
+**3. Child Development, Learning and Special needs** (Course for educator and people working with children run by Eklavya Foundation & Institute of Home Economics - Delhi University) : I am part of faculty team since last 5 years. This year also I am part of the team and announcing the 7th cohort in Oct 2024.
 
-**Earth Educator fellowship - 4th Cohort at [YouCAN](https://www.youcan.in/) :** 
+**4. Earth Educator fellowship - 4th Cohort at [YouCAN](https://www.youcan.in/) :** 
 
 - Part of fellow selection process
 
 - Mentoring group of fellows (being learning partner) throughout the fellowship
 
-**[Unstructured Studio](https://unstructured.studio/) :**
+**5. [Unstructured Studio](https://unstructured.studio/) :**
 
 I am part of team from very beginning. Doing Bio-weekly meeting with them to find out new possibilities to implement creative learning programs in different location of India.  
 
-**Helping to start a podcast  :** Impana and Satvika (teenagers from BeMe) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.
+**6. Helping to start a podcast  :** Impana and Satvika (teenagers from BeMe) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.
 
-**Work with [Faculty of Family & Community Science - MS University, Vadodara.](https://msubaroda.ac.in/academics/FFCS)**
+**7. Work with [Faculty of Family & Community Science - MS University, Vadodara.](https://msubaroda.ac.in/academics/FFCS)**
 
 In coming months I am going to take guest workshops for students from following courses :
 
