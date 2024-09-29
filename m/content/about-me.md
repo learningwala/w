@@ -7,29 +7,35 @@ weight: 2
 ![Mihir Pathak](/mp-about.png)
 
 
-**I craft transformative learning journeys for children and young adults, through experiential methodologies.**
+I believe that modern education system is a fraudulent system of learning, whose purpose is to convert beautiful diverse human beings into robot-like "human resources" and into stupid global consumers. (&rarr; [10 lies school taught me](https://shikshantar.org/articles/10-lies-my-school-taught-me))
 
-I believe that school kills creativity, self-esteem, and most importantly, sensitivity in individuals, which has larger implications on society.
+**I craft transformative learning journeys for children and young adults.**
 
-I am passionate about co-creating learning journeys with young adults, fostering safe, dialogic spaces, sharing reflective tools, and inviting them for [‘self-directed learning’](https://www.youtube.com/watch?v=YoE480mzrk0).
+> In contemporary societies, we must learn to negotiate and act on our own purposes, values, feelings, and meanings rather than those we have uncritically assimilated from others — to gain greater control over our lives as socially responsible, clearthinking decision makers.” (Mezirow, 2012).
 
-*This includes:*
+**I believe that transformative learning happens through human relationships, dialogs, powerful experiences & reflections.**
 
-Facilitating projects, theater and outdoor/nature-based experiential learning programs, residential camps, yatra, internships, weekly meetups, and more.
+> Transformative learning is the expansion of consciousness through the transformation of basic worldview and specific capacities of the self. (Elias, 1997)
 
-*I am interested in :*
+**I am passionate about co-creating dialogic spaces with children & young adults. 
+Where we share creative adventures, tools for reflection, and invite them for 'journey of growth'.**
 
-- Nature / Outdoor Education
-- Interdisciplinary Project based - self directed - Experiential Learning
-- Life Skills and Socio Emotional Learning
-- Dialogue based - Transformative learning
-- Mentoring teenagers for designing their own learning Journeys & making portfolio
-- Citizen science - open data - civic engagement projects, 
-- Creative writing - art - theater - design and technology
-- Informal learning environment (Library, Maker Space, Studio, Club, Yatra, Camp, Festival)
-- Developing self designed learning space
+> Learning does not happen through teaching; it happens through meeting. — Martin Buber
+
+**Intention to action :**
+
+I am trying to facilitate transformative learning through tools I discovered during my journey :
+
+- Interdisciplinary projects / Project based learning 
+- Movement & Theater based programs
+- Nature / Outdoor based programs
+
+Residential camps, Yatras, Internships, Weekly meetups, developing informal learning spaces (Clubs, Maker Space, Library, Studio) and more.
+
 
 With a decade of experience, I consult for a number of learning spaces across India.
+
+----------
 
 At times, I engage in educational content, curriculum, and product development. While it's not always fun or meaningful, I appreciate the creative process and the opportunity to apply my experience with children and teachers.
 
@@ -65,13 +71,11 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 - **Continued Learning:** I’ve pursued numerous online and offline courses in areas like child development, geo-inquiry projects, project-based learning, nature and climate education, creative computing, children's literature writing, and screenwriting, from institutions like the National Geographic Society, Green School Bali, Eklavya Foundation, and MIT Media Lab.
 
-- **Earth Educators Fellowship:** I participated in a year-long fellowship called *Earth Educators*, supported by Youth Conservation Action Network and the National Geographic Society.
-
 - **Faculty Member:** For the past five years, I’ve been part of the faculty team for the *Child Development, Learning & Special Needs* course at the Eklavya Foundation. 
 
 I also co facilitated the course called 'Experiential Learning' for secondary schools teachers (in collaboration with Eklavya Foundation & Tata Trust)
 
-- **Fellowship & Grant :** [Earth Educator Fellowship 23'](https://www.youcan.in/earth-edu) , [Gaur & Chopra Escape Velocity Grant 2024 - 25](https://invertedpassion.com/escape-velocity-grant/)
+- **Fellowship & Grant :** [Earth Educator Fellowship 23'](https://www.youcan.in/earth-edu) , [Gaur & Chopra Escape Velocity Grant 2024 - 25](https://invertedpassion.com/escape-velocity-grant/), [Hacking The Education System Fellowship 2017](https://shikshantar.org/initiatives/walkouts-network/emperor-has-no-clothes-hacking-education-system-fellowship)
 
 - **Published Works:** My articles on education and learning have been featured in publications like *Teacher Plus* and *Pathshala Bhitar Bahar* by Azim Premji University. (You can read it here --> [Writings](/writings))
 

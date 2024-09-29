@@ -47,6 +47,6 @@ weight: 6
     
 *   [सीखना जीवन का मूल भाव है](https://fb.watch/ny21X26zlz/)
 
-*   Webinar with Aditi (Aarohi life Education) hosted by Praveen 
+*   [Webinar with Aditi (Aarohi life Education) hosted by Praveen](https://www.instagram.com/p/CIgKVrTpsoe/?img_index=1)
 
 -------
