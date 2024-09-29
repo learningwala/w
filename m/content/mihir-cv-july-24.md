@@ -25,7 +25,7 @@ I am passionate about co-creating learning journeys with young adults, fostering
 
 *This includes:*
 
-Facilitating theatre and outdoor/nature-based experiential learning programs, projects, residential camps, yatra, internships, weekly meetups, and more.
+Facilitating projects, theater and outdoor/nature-based experiential learning programs, residential camps, yatra, internships, weekly meetups, and more.
 
 With a decade of experience, I consult for a number of learning spaces across India.
 

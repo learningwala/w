@@ -4,12 +4,8 @@ menu: "main"
 weight: 3
 ---
 
-**Current Projects :**
+### Workshops / Sessions / Other work
 
-- **Khoji Club :** I am facilitating a weekend 'self directed learning club' called 'khoji club' where children do projects, learn new skills from the internet, mentor, peers and more.
-
-- **Nature Education workshops :** Nidhi got 'Teach for Nature Fellowship' from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
-I am helping her with facilitation tips, planning the session and brainstorming new ideas.
 ---------
 
 ### Vadodra - May 2024 to Present
@@ -34,7 +30,12 @@ I am helping her with facilitation tips, planning the session and brainstorming 
 
 * Nature & Me session at Mitaliben's school - **Session 1** (Facilitated by Nidhi) | 11th Sep 2024
 
-* Nature Art session at SAF Community Learning Cenetr (Facilitated by Nidhi) | 14th Sep 2024
+* Nature Art session at SAF Community Learning Center (Facilitated by Nidhi) | 14th Sep 2024
+
+* Nature Color Making Session at SAF Community Learning Center (Facilitated by Nidhi) | 21st Sep 2024
+
+* [Evolutionary biology, Education and Sustainable Development](/msu) - Session at Human and Family Studies Department, MS University Vadodra (Facilitated by Mihir) | 28th Sep 2024
+
 
 ### Aug 2023 to Feb 2024
 
@@ -162,7 +163,8 @@ I am helping her with facilitation tips, planning the session and brainstorming 
 
 --------------
 
-- [Work](/work) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
-- [Now](/now) --> on this page I keep an up-to-date list of the things I'm focussing on and what I'm doing.
-- [About](/about-me) --> on this page I have put highlights from my learning journey and core intention about my work
-- You can visit my [instagram profile](https://www.instagram.com/learningwala/) for pictorial updates.
+- [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
+- [About](/about-me) &rarr; On this page I have put highlights from my learning journey and core intention about my work
+- [Projects](/work) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
+- [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 

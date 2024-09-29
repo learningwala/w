@@ -19,10 +19,11 @@ When I'm not with children or educators, I immerse myself in writing poetry or d
 
 **Welcome to my small space on the internet.**
 
-- [Projects](/projects) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
-- [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focussing on and what I'm doing NOW.
+
+- [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
 - [About](/about-me) &rarr; On this page I have put highlights from my learning journey and core intention about my work
-- [Writings](/writings) &rarr; Educational Writing, Classroom Experinces and more
+- [Projects](/projects) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
 **Find me on :** [Instagram](https://www.instagram.com/learningwala/) | [Medium](https://medium.com/learningwala) | [LinkedIn](https://www.linkedin.com/in/learningwalamihir/) | [Linktree](https://linktr.ee/learningwala)

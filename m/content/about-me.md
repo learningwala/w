@@ -15,7 +15,7 @@ I am passionate about co-creating learning journeys with young adults, fostering
 
 *This includes:*
 
-Facilitating theater and outdoor/nature-based experiential learning programs, projects, residential camps, yatra, internships, weekly meetups, and more.
+Facilitating projects, theater and outdoor/nature-based experiential learning programs, residential camps, yatra, internships, weekly meetups, and more.
 
 *I am interested in :*
 
@@ -49,7 +49,7 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 - **Pedagogy I love :** I love working with Project based learning, Nature / outdoor education, Theater in Education and other experiential learning pedagogies.
 
-- **Innovative Learning Spaces:** I’ve worked with different types of schools, such as CBSE, GSEB, Ashramshalas, democratic schools, and homeschooling groups.
+- **Learning Spaces:** I’ve worked with different types of schools, such as CBSE, GSEB, Ashramshalas, democratic schools, and homeschooling groups.
 
 - **NGO Collaborations:** I’ve contributed to large-scale project implementations by partnering with a variety of NGOs.
 
@@ -67,7 +67,9 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 - **Earth Educators Fellowship:** I participated in a year-long fellowship called *Earth Educators*, supported by Youth Conservation Action Network and the National Geographic Society.
 
-- **Faculty Member:** For the past five years, I’ve been part of the faculty team for the *Child Development, Learning & Special Needs* course at the Eklavya Foundation. I also co facilitated the course called 'Experiential Learning' for secondary schools teachers (in collaboration with Eklavya Foundation & Tata Trust)
+- **Faculty Member:** For the past five years, I’ve been part of the faculty team for the *Child Development, Learning & Special Needs* course at the Eklavya Foundation. 
+
+I also co facilitated the course called 'Experiential Learning' for secondary schools teachers (in collaboration with Eklavya Foundation & Tata Trust)
 
 - **Fellowship & Grant :** [Earth Educator Fellowship 23'](https://www.youcan.in/earth-edu) , [Gaur & Chopra Escape Velocity Grant 2024 - 25](https://invertedpassion.com/escape-velocity-grant/)
 
@@ -86,8 +88,9 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 -------
 
-- [Projects](/projects) --> On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
-- [Now](/now) --> on this page I keep an up-to-date list of the things I'm focussing on and what I'm doing.
-- [About](/about-me) --> on this page I have put highlights from my learning journey and core intention about my work
-- You can visit my [instagram profile](https://www.instagram.com/learningwala/) for pictorial updates.
+- [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
+- [About](/about-me) &rarr; On this page I have put highlights from my learning journey and core intention about my work
+- [Projects](/projects) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
+- [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
