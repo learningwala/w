@@ -11,7 +11,7 @@ I believe that modern education system is a fraudulent system of learning, whose
 
 **I craft transformative learning journeys for children and young adults.**
 
-> In contemporary societies, we must learn to negotiate and act on our own purposes, values, feelings, and meanings rather than those we have uncritically assimilated from others — to gain greater control over our lives as socially responsible, clearthinking decision makers.” (Mezirow, 2012).
+> In contemporary societies, we must learn to negotiate and act on our own purposes, values, feelings, and meanings rather than those we have uncritically assimilated from others — to gain greater control over our lives as socially responsible, clearthinking decision makers.(Mezirow, 2012).
 
 **I believe that transformative learning happens through human relationships, dialogs, powerful experiences & reflections.**
 
@@ -24,7 +24,7 @@ Where we share creative adventures, tools for reflection, and invite them for 'j
 
 **Intention to action :**
 
-I am trying to facilitate transformative learning through tools I discovered during my journey :
+I am trying to facilitate transformative learning through tools I have discovered during my journey :
 
 - Interdisciplinary projects / Project based learning 
 - Movement & Theater based programs
@@ -37,7 +37,7 @@ With a decade of experience, I consult for a number of learning spaces across In
 
 ----------
 
-At times, I engage in educational content, curriculum, and product development. While it's not always fun or meaningful, I appreciate the creative process and the opportunity to apply my experience with children and teachers.
+At times, I engage in educational content, curriculum, and product development. While it's not always fun or meaningful, I appreciate the creative process and the opportunity to apply my experience of working with children and teachers.
 
 As an amateur writer, I enjoy crafting poetry and aspire to write stories, poems, and plays for children. So far, I have self-published two books in Gujarati.
 
