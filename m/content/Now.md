@@ -15,10 +15,30 @@ weight:	4
 
 - I am working on my health nowadays. I am trying naturopathy diet + fix routine + daily yoga (suryanamaskar, basic stretching, back exercise, evening walk. I want to start pranayam, meditation, cycling / running)
 
+**Reading :**
+
+in last few months I am reading - rereading following books 
+
+- [What did you ask at school today (Book 2)](https://harpercollins.co.in/product/what-did-you-ask-at-school-today/) by [Kamla V Mukunda](https://harpercollins.co.in/author-details/kamala-v-mukunda/) 
+- Some different issues of [Bhoomi Magazine](https://bhoomimagazine.org/)
+- [સાચું ધાર્મિક જીવન જીવવાની ઝંખના](https://jainebooks.org/books/6372/saachu-dharmik-jeevan) by [વિમલા ઠકાર](https://en.wikipedia.org/wiki/Vimala_Thakar)
+- [Respectful Parents, Respectful Kids by Sura Hart & Victoria Kindle Hodson](https://www.goodreads.com/book/show/1342248.Respectful_Parents_Respectful_Kids)
+- Joy and Enthusiasm by [Norman Vincent Peale](https://en.wikipedia.org/wiki/Norman_Vincent_Peale)
 
 **Work / Projects :**
 
-**1. Khoji Club :** I am facilitating a weekend 'self directed learning club' called 'khoji club' where children do projects, learn new skills from the internet, mentor, peers and more.
+**1. Workshops with young people :** 
+
+I am working with teenage (8th to 12th grade) children at [sai's angel foundation](https://saiangel.org/).
+
+- we recently did project based learning program called [local khoji](https://www.instagram.com/p/C8b-QO2I10P/?img_index=1) 
+- Khoji Club : I tried helping children to start their own self directed projects / learning new skills. We were meeting every Sunday. But because of other work or office trips my Sunday is getting busy. Children also can't come on other days. so I am planning to discontinue / Pause this idea. 
+
+I occasionally take session at [Ramkrishna Mission](https://rkmvadodara.org/) with young people on different topics like climate & Consumption, Futurology, local civic problem solving and more. 
+
+(you can read details on the page called [projects](/projects))
+
+- Next plan is to do residential camp during diwali vaction to explore theater-drama-dance & movement. Apart from this I want to do monthly sessions with children 
 
 **2. Nature Education workshops :** Nidhi got 'Teach for Nature Fellowship' from Bhoomi Collage, Bangalore. She is facilitating nature education sessions with children at 3 places.
 I am helping her with facilitation tips, planning the session and brainstorming new ideas.
@@ -35,7 +55,7 @@ I am helping her with facilitation tips, planning the session and brainstorming 
 
 I am part of team from very beginning. Doing Bio-weekly meeting with them to find out new possibilities to implement creative learning programs in different location of India.  
 
-**6. Helping to start a podcast  :** Impana and Satvika (teenagers from BeMe) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.
+**6. Helping to start a podcast  :** Impana and Satvika (teenagers from [BeMe](https://www.beme.org.in/)) want to start their own podcast about the people who made offbeat choices in their life. I am helping them to get mentors, doing research for the interview. We meet every Thursday evening at 9pm.
 
 **7. Work with [Faculty of Family & Community Science - MS University, Vadodara.](https://msubaroda.ac.in/academics/FFCS)**
 
@@ -75,4 +95,4 @@ Creating digital content for children age 10 to 14yrs to foster creativity, coll
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
-Inspiration: [nownownow.com](nownownow.com) | last updated on 21st Sep 2024
+Inspiration: [nownownow.com](nownownow.com) | last updated on 2nd Oct 2024

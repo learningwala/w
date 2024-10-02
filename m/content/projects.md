@@ -22,17 +22,20 @@ weight: 3
 
 * [Local Khoji Event | 28th July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
 
-* [Nature Education Course with Paperball & Vinoba Ashram - **Session 1** (Facilitated by Nidhi) | 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+* [Nature Education Course with Paperball & Vinoba Ashram - **Session 1 - Biodiversity** (Facilitated by Nidhi) | 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 * [Fun with microscope (Facilitated by Nidhi) | 25th Aug 2024](https://www.instagram.com/p/C-AUyxaSJMN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-* Nature Education Course with Paperball & Vinoba Ashram - **Session 2** (Facilitated by Nidhi) | 1st Sep 2024
+* Nature Education Course with Paperball & Vinoba Ashram - **Session 2 - Inter-contentedness** (Facilitated by Nidhi) | 1st Sep 2024
 
 * Nature & Me session at Mitaliben's school - **Session 1** (Facilitated by Nidhi) | 11th Sep 2024
 
 * Nature Art session at SAF Community Learning Center (Facilitated by Nidhi) | 14th Sep 2024
 
 * Nature Color Making Session at SAF Community Learning Center (Facilitated by Nidhi) | 21st Sep 2024
+
+* Nature Education Course with Paperball & Vinoba Ashram - **Session 3 - Habitats** (Facilitated by Nidhi) | 22nd Sep 2024
+
 
 * [Evolutionary biology, Education and Sustainable Development](/msu) - Session at Human and Family Studies Department, MS University Vadodra (Facilitated by Mihir) | 28th Sep 2024
 

@@ -26,12 +26,12 @@ Where we share creative adventures, tools for reflection, and we embark on 'jour
 
 I am trying to facilitate transformative learning through tools I have discovered during my journey :
 
-- Interdisciplinary projects / Project based learning 
+- Interdisciplinary projects / Project based learning (Creative writing, Entrepreneurship, Civic-Environment, Coding - Designing - inquiry based projects)
 - Movement & Theater based programs
 - Nature / Outdoor based programs
 
-Residential camps, Yatras, Internships, Weekly meetups, developing informal learning spaces (Clubs, Maker Space, Library, Studio) and more.
-
+Residential camps, Yatras, Internships, Weekly meetups, developing informal learning spaces (Clubs, Maker Space, Library, Studio).
+Engaging with transformational programs like Fellowships and more.
 
 With a decade of experience, I consult for a number of learning spaces across India.
 
@@ -69,7 +69,7 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 - **Workshops & Camps:** I’ve facilitated over 50 workshops, camps, and sessions for children and teachers on a wide range of topics, including design thinking, nature education, film making, civic problem-solving, creative computing, film appreciation, interdisciplinary projects, and experiential learning. (you can see documentation here --> [work](/work))
 
-- **Continued Learning:** I’ve pursued numerous online and offline courses in areas like child development, geo-inquiry projects, project-based learning, nature and climate education, creative computing, children's literature writing, and screenwriting, from institutions like the National Geographic Society, Green School Bali, Eklavya Foundation, and MIT Media Lab.
+- **Continued Learning:** I’ve pursued numerous online and offline courses in areas like child development, geo-inquiry projects, project-based learning, nature and climate education, creative computing, children's literature writing, and screenwriting from institutions like the National Geographic Society, Green School Bali, Eklavya Foundation, and MIT Media Lab.
 
 - **Faculty Member:** For the past five years, I’ve been part of the faculty team for the *Child Development, Learning & Special Needs* course at the Eklavya Foundation. 
 
