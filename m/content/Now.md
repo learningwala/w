@@ -80,6 +80,10 @@ Apart from these I am planing to work with children and teachers at chetan balwa
 - Theater 
 - Nature based activities 
 
+**8. Work with [Nature Classrooms (Nature conservation Foundation)](https://www.natureclassrooms.org/) :** Tanaya from Nature Classroom got a grant to develop open sourced nature education assessment tool / framework. We are trying their ideas in our work in Vadodara and giving feedback.
+
+**9. Work with [Reap Benifit](https://www.reapbenefit.org/) :** During local khoji program I collbrated with reap benifit folks to design final workshop of children. I want to keep in touch with them to do carve out new possiblities to enage our children.
+
 --------------
 
 **I am working as senior content developer (environment domain in learning for life team - PraDigi / Pratham Education Foundation ) :**
@@ -90,9 +94,9 @@ Creating digital content for children age 10 to 14yrs to foster creativity, coll
 ---------------
 
 - [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
-- [About](/about-me) &rarr; On this page I have put highlights from my learning journey and core intention about my work
+- [About](/about-me) &rarr; On this page I have put my offerings & my personal educational philosophy 
 - [Projects](/projects) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
-Inspiration: [nownownow.com](nownownow.com) | last updated on 2nd Oct 2024
+Inspiration: [nownownow.com](nownownow.com) | last updated on 6nd Oct 2024
