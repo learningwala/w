@@ -10,34 +10,37 @@ weight: 3
 
 ### Vadodra - May 2024 to Present
 
-* [Ant Walk | 12th May 2024](https://www.instagram.com/p/C626_y8IXEw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Introduction to 'Nature based learning' - Session at Human and Family Studies Department, MS University Vadodra (Facilitated by Mihir) | 5th Oct 2024 
 
-* [Curiosity Map | 18th May 2024](https://www.instagram.com/p/C7G8oi1I9h8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Origami session at SAF Community Learning Center (Facilitated by Nidhi) | 5th Oct 2024
 
-* [Futurology | 26th May 2024](https://www.instagram.com/p/C7aj6DWIYAJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [Evolutionary biology, Education and Sustainable Development](/msu) - Session at Human and Family Studies Department, MS University Vadodra (Facilitated by Mihir) | 28th Sep 2024
 
-* [Climate and Consumption | 23th June 2024](https://www.instagram.com/p/C8lb8uPokNh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Nature Education Course with Paperball & Vinoba Ashram - **Session 3 - Habitats** (Facilitated by Nidhi) | 22nd Sep 2024
 
-* [Nature Journaling | 23th June 2024](https://www.instagram.com/p/C8l1DiGNEpI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Nature Color Making Session at SAF Community Learning Center (Facilitated by Nidhi) | 21st Sep 2024
 
-* [Local Khoji Event | 28th July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
+- Nature Art session at SAF Community Learning Center (Facilitated by Nidhi) | 14th Sep 2024
 
-* [Nature Education Course with Paperball & Vinoba Ashram - **Session 1 - Biodiversity** (Facilitated by Nidhi) | 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Nature & Me session at Mitaliben's school - **Session 1** (Facilitated by Nidhi) | 11th Sep 2024
 
-* [Fun with microscope (Facilitated by Nidhi) | 25th Aug 2024](https://www.instagram.com/p/C-AUyxaSJMN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- Nature Education Course with Paperball & Vinoba Ashram - **Session 2 - Inter-contentedness** (Facilitated by Nidhi) | 1st Sep 2024
 
-* Nature Education Course with Paperball & Vinoba Ashram - **Session 2 - Inter-contentedness** (Facilitated by Nidhi) | 1st Sep 2024
+- [Fun with microscope (Facilitated by Nidhi) | 25th Aug 2024](https://www.instagram.com/p/C-AUyxaSJMN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-* Nature & Me session at Mitaliben's school - **Session 1** (Facilitated by Nidhi) | 11th Sep 2024
+- [Nature Education Course with Paperball & Vinoba Ashram - **Session 1 - Biodiversity** (Facilitated by Nidhi) | 18th Aug 2024](https://www.instagram.com/p/C-17hF6N_6i/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-* Nature Art session at SAF Community Learning Center (Facilitated by Nidhi) | 14th Sep 2024
+- [Local Khoji Event | 28th July 2024](https://www.linkedin.com/posts/rameshwari-gajjar-23128a2b_on-sunday-three-groups-of-children-from-ugcPost-7223559284784041984-UL79?utm_source=share&utm_medium=member_desktop)
 
-* Nature Color Making Session at SAF Community Learning Center (Facilitated by Nidhi) | 21st Sep 2024
+- [Nature Journaling | 23th June 2024](https://www.instagram.com/p/C8l1DiGNEpI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-* Nature Education Course with Paperball & Vinoba Ashram - **Session 3 - Habitats** (Facilitated by Nidhi) | 22nd Sep 2024
+- [Climate and Consumption | 23th June 2024](https://www.instagram.com/p/C8lb8uPokNh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
+- [Futurology | 26th May 2024](https://www.instagram.com/p/C7aj6DWIYAJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-* [Evolutionary biology, Education and Sustainable Development](/msu) - Session at Human and Family Studies Department, MS University Vadodra (Facilitated by Mihir) | 28th Sep 2024
+- [Curiosity Map | 18th May 2024](https://www.instagram.com/p/C7G8oi1I9h8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+- [Ant Walk | 12th May 2024](https://www.instagram.com/p/C626_y8IXEw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 
 ### Aug 2023 to Feb 2024
