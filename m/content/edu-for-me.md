@@ -4,7 +4,7 @@ menu:
 weight:
 ---
 
-The starting point of our educational thinking is that there is a crisis in human society at multiple levels: personal, political and environmental. 
+The starting point of my educational thinking is that there is a crisis in human society at multiple levels: personal, political and environmental. 
 
 Personal and social problems are mirrors of each other, and are intimately connected. In other words, human needs and desires have created the social structures we live in today, and any examination of these structures or any attempt to change them must at least begin with an examination of personal, “subjective” emotional patterns.
 

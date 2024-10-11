@@ -24,7 +24,7 @@ weight:
 
 - **Time with Children:** On average, I’ve spent 6 hours a day with children for the past 11 years. learning and growing together.
 
-- **Workshops & Camps:** I’ve facilitated over 50 workshops, camps, and sessions for children and teachers on a wide range of topics, including design thinking, nature education, film making, civic problem-solving, creative computing, film appreciation, interdisciplinary projects, and experiential learning. (you can see documentation here --> [work](/work))
+- **Workshops & Camps:** I’ve facilitated over 50 workshops, camps, and sessions for children and teachers on a wide range of topics, including design thinking, nature education, film making, civic problem-solving, creative computing, film appreciation, interdisciplinary projects, and experiential learning. (you can see documentation here --> [Projects](/projects))
 
 - **Continued Learning:** I’ve pursued numerous online and offline courses in areas like child development, geo-inquiry projects, project-based learning, nature and climate education, creative computing, children's literature writing, and screenwriting from institutions like the National Geographic Society, Green School Bali, Eklavya Foundation, and MIT Media Lab.
 

@@ -6,16 +6,19 @@ weight: 2
 
 ![Mihir Pathak](/mp-about.png)
 
-I am passionate educator working at formal and informal learning environments for the past 11 years. 
+I am passionate educator working in formal and informal learning environments for the past 11 years. 
 
-**I craft transformative learning journeys with children and young adults through :**
+**I craft transformative learning journeys with children and young adults through experiential methodologies:**
+
+My offerings :
 
 - Project based learning programs
 - Movement & Theater based programs
 - Nature / Outdoor based programs
 
-- Workshops, Residential camps, Yatras, Internships, Weekly meetups, developing informal learning spaces (Clubs, Maker Space, Library, Studio).
-- Engaging with transformational programs like Fellowships and more.
+- Workshops, Residential camps, Yatras, Internships, Weekly meetups, 
+- Developing informal learning spaces (Clubs, Maker Space, Library, Studio).
+- Mentorship for 'self design learning' programs (fellowships / Passion Projects)
 
 With a decade of experience, I consult for a number of learning spaces across India.
 

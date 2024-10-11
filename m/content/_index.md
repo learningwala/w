@@ -11,7 +11,7 @@ weight: 1
 
 Hi, This is Mihir aka learningwala.
 
-**I craft transformative learning journeys with children and young adults.**
+**I craft transformative learning journeys with children and young adults through experiential methodologies.**
 
 Welcome to my small space on the internet.
 
