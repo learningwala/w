@@ -6,7 +6,7 @@ weight: 2
 
 ![Mihir Pathak](/mp-about.png)
 
-I am passionate educator working in formal and informal learning environments for the past 11 years. 
+I am passionate educator working in a formal and informal learning environments for the past 11 years. 
 
 **I craft transformative learning journeys with children and young adults through experiential methodologies:**
 

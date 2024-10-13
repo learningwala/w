@@ -17,13 +17,12 @@ weight:	4
 
 **Reading :**
 
-in last few months I am reading - rereading following books 
+I am reading (Oct 2024)
 
 - [What did you ask at school today (Book 2)](https://harpercollins.co.in/product/what-did-you-ask-at-school-today/) by [Kamla V Mukunda](https://harpercollins.co.in/author-details/kamala-v-mukunda/) 
 - Some different issues of [Bhoomi Magazine](https://bhoomimagazine.org/)
 - [સાચું ધાર્મિક જીવન જીવવાની ઝંખના](https://jainebooks.org/books/6372/saachu-dharmik-jeevan) by [વિમલા ઠકાર](https://en.wikipedia.org/wiki/Vimala_Thakar)
 - [Respectful Parents, Respectful Kids by Sura Hart & Victoria Kindle Hodson](https://www.goodreads.com/book/show/1342248.Respectful_Parents_Respectful_Kids)
-- Joy and Enthusiasm by [Norman Vincent Peale](https://en.wikipedia.org/wiki/Norman_Vincent_Peale)
 
 **Work / Projects :**
 
