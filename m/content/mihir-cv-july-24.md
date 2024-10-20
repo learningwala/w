@@ -21,9 +21,71 @@ I am passionate educator working at formal and informal learning environments fo
 
 **I craft transformative learning journeys with children and young adults through experiential methodologies.**
 
+
+**Highlights :** 
+
+- I started my journey as an educator at the age of 19. In past 11 years I have worked with children and young adults from different socio economic backgrounds.
+
+- I am part of faculty team for the 'Child Development & learning - certificate course for educators' facilitated by Eklavya Foundation & Delhi Univesity.
+
+- I am practitioner of 'Project Based learning', 'Applied Theater' & 'Nature Based learning'.
+
+
 ---------
 
+## Education
+
+### Saurashtra University, Rajkot
+
+* Bachelor of Arts - BA, Sociology
+
+## Licenses & Certifications
+
+* Certificate in Child Development and learning - Eklavya Foundation
+
+* Learning Creative Learning - MIT Media Lab
+
+* Child Development and Psychology - SDG Academy - edX
+
+* Design and Development of Educational Technology - MITx Courses
+
+* Scratch Programing - MITx Courses
+
+* Course on Experiential Learning - Diksha Portal
+
+* Waldorf Kindergarten Teacher Training (15 days workshop by Aban Bana) - Inodai Waldorf School - India
+
+* Tinkering Fundamentals: a constructionist approach to STEM learning - Coursera
+
+* Demystifying Board Game Design - IITBombayX
+
+* Human Behavioral Biology by Professor Robert Sapolsky - Stanford University
+
+* Nimboli - Month Long Poetry Workshop - By Mudit Srivastav
+
+* Drama For Learning Certificate - Theatre Professionals Education
+
+* Teacher Author - Month Long Children literature Writing Workshop - Teacher Author
+
+* Applied Theatre - Social Arts Course - Rangbhumi - An Applied Theatre Centre
+
+* Stepping in to Storytelling - Tata Institute of Social Sciences - Center of Excellence in Teacher Education
+
+* Screen Writing With Varun Grover - FrontRow
+
+--------
+
 ## Experience
+
+### Pradigi (Pratham Shah Digital Innovation Center) - Sr. Content Developer 
+
+```
+Vadodara (Gujarat) - May 2024 - Present (5 months)
+```
+
+My work includes Writing scripts, making videos and other digital content for topics related to climate / nature / environment education.
+
+Creating digital content for the project called Creativity Club (fostering creativity, collaboration, communication and problem solving through project based learning methdology)
 
 ### LearningWala Studio - Learning Facilitator
 
@@ -412,48 +474,6 @@ Teacher Plus Magazine · Jun 1, 2022
  
 
 --------------
-
-## Education
-
-### Saurashtra University, Rajkot
-
-* Bachelor of Arts - BA, Sociology
-
-## Licenses & Certifications
-
-* Certificate in Child Development and learning - Eklavya Foundation
-
-* Learning Creative Learning - MIT Media Lab
-
-* Child Development and Psychology - SDG Academy - edX
-
-* Design and Development of Educational Technology - MITx Courses
-
-* Scratch Programing - MITx Courses
-
-* Course on Experiential Learning - Diksha Portal
-
-* Waldorf Kindergarten Teacher Training (15 days workshop by Aban Bana) - Inodai Waldorf School - India
-
-* Tinkering Fundamentals: a constructionist approach to STEM learning - Coursera
-
-* Demystifying Board Game Design - IITBombayX
-
-* Human Behavioral Biology by Professor Robert Sapolsky - Stanford University
-
-* Nimboli - Month Long Poetry Workshop - By Mudit Srivastav
-
-* Drama For Learning Certificate - Theatre Professionals Education
-
-* Teacher Author - Month Long Children literature Writing Workshop - Teacher Author
-
-* Applied Theatre - Social Arts Course - Rangbhumi - An Applied Theatre Centre
-
-* Stepping in to Storytelling - Tata Institute of Social Sciences - Center of Excellence in Teacher Education
-
-* Screen Writing With Varun Grover - FrontRow
-
-------
 
 ## Volunteering
 
