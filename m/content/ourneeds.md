@@ -13,10 +13,9 @@ We both love working with children and we are primarily 'learning facilitators'.
 
 We are looking for a working opportunity where we can work directly with children.
 
-Our keen interest is on building human to human relationships acknowledging one’s inner strengths and uniqueness. Supporting an individual getting to connect with their potential rather then having self judgement, comparative behavior or need of external validation for any work performance.
+Our keen interest is on building human to human relationships acknowledging one’s inner strengths and uniqueness. Supporting an individual getting to connect with their potential rather then having self judgement or need of external validation.
 
-We are **not looking for 'Jobs'**. We are on inner journey and interested in working with children as a karmayog.
-We want to work with full ownership and devotion.
+We are **not looking for 'Jobs'**. We are looking for a place where the goal is not to change the world, scale up or do more. We are looking for a place where can work deeper, ask fundamental questions, self reflect, work on ourselves & build authentic relationships.
 
 --------------------
 

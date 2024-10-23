@@ -10,6 +10,8 @@ I am passionate educator working in a formal and informal learning environments 
 
 **I craft transformative learning journeys with children and young adults through experiential methodologies:**
 
+My keen interest is on building human to human relationships acknowledging one’s inner strengths and uniqueness. Supporting an individual getting to connect with their potential rather then having self judgement or need of external validation.
+
 My offerings :
 
 - Project based learning programs
