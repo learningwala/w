@@ -98,11 +98,11 @@ you can read about my current work, documentation about my past work and my pers
 - Knowledge of tools for learning primary mathematics and language learning (whole
 language approach)
 - Ability to design projects according to children's need and interests, also keeping in mind that the child gets to understand diverse perspectives
-- Interested in farming, collecting seeds, understanding food from different perspectives
-- like nutrition, social justice, etc
+- Interested in farming, collecting seeds, understanding food from different perspectives like nutrition, social justice, etc
 - Interested in different crafts like painting, embroidery and pottery
 - Interested in exploring conflict management methods with children  
 
+[CV](/nidhi-cv-oct2024.pdf) | [What is education for me, my personal strengths and weakness.](/n-anubhuti)
 
 --------
 
