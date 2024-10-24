@@ -80,7 +80,7 @@ I can guide / mentor individuals to get on the path of SDL through Projects, Int
 
 -----
 
-you can read about my current work, documentation about my past work and my personal educational philosophy on my website - [learningwala.in](https://learningwala.in/)
+you can read about my current work, documentation about my past work and my personal educational philosophy on my website - [learningwala.in](https://learningwala.in/)  | [CV](https://learningwala.in/mihir-cv-july-24/) | [What is education for me, my personal strengths and weakness.](/m-anubhuti)
 
 --------------------
 
