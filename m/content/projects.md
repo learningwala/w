@@ -10,6 +10,10 @@ weight: 3
 
 ### Vadodra - May 2024 to Present
 
+- Chetan Balwadi | MS University vadodra | Storytelling session with children of kindergarten (facilitated by Mihir) | 24th Oct 2024
+
+- Nature Education Course with Paperball & Vinoba Ashram - **Session 4 - Human Impact of nature** (Facilitated by Nidhi) | 20th Oct 2024
+
 - Introduction to 'Nature based learning' - Session at Human and Family Studies Department, MS University Vadodra (Facilitated by Mihir) | 5th Oct 2024 
 
 - Origami session at SAF Community Learning Center (Facilitated by Nidhi) | 5th Oct 2024

@@ -11,15 +11,13 @@ Me & my partner Nidhi are looking for a long term working opportunity at a learn
 
 **Our Needs**
 
-- We both love working with children and we are primarily 'learning facilitators'. We are looking for place where there is balance of managerial work & on ground work with children / young adults / teachers.
-
-> Our keen interest is on building human to human relationships acknowledging one’s inner strengths and uniqueness. Supporting an individual getting to connect with their potential rather then having self judgement or need of external validation.
+- We both love working with children and we are primarily 'learning facilitators'. We are looking for place where there is a balance of managerial work & on ground work with children / young adults / teachers.
 
 - We are **not looking for 'Jobs' in traditional sense**. We are looking for place which has larger purpose. Where our vision & skill sets are aligned and we can work with ownership / autonomy. 
 
 We are looking for a place where the goal is not to take funding for any random project or scale mindlessly or do projects which are in trends. 
 
-We are looking for a place where can work deeper, ask fundamental questions, self reflect, work on ourselves & build authentic relationships.
+We are looking for a place where we can work deeper, ask fundamental questions, self reflect, work on ourselves & build authentic relationships.
 
 - We both never worked in the corporate sector, we are trusting the universe and working in alternate spaces from the beginning of our career. So we do not have savings, on the other side we need to support our parents also. So we have financial needs.If we are living in a city like Bangalore or Pune in a rented house. We need a salary of 50 k per month (individually). If learning space is providing a place to live & food. We will be able to manage in 30 k per month (individually). 
 
