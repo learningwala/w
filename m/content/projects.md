@@ -10,6 +10,12 @@ weight: 3
 
 ### Vadodra - May 2024 to Present
 
+- [Ramkrishna Mission, Vadodra | Food, Why reading food packet label is important ?](https://www.instagram.com/p/DBtuR-Eyts8/?img_index=1) (facilitated by Nidhi) | 27th Oct 2024
+
+- [SAF Learning center | Birds around us](https://www.instagram.com/p/DBtx4Ioyakk/?img_index=1) (facilitated by Nidhi) | 26th Oct 2024
+
+- Reva learning center | Theater - Problem solving challenge - Films & feeling (facilitated by Mihir) | 26th Oct 2024
+
 - Chetan Balwadi | MS University vadodra | Storytelling session with children of kindergarten (facilitated by Mihir) | 24th Oct 2024
 
 - Nature Education Course with Paperball & Vinoba Ashram - **Session 4 - Human Impact of nature** (Facilitated by Nidhi) | 20th Oct 2024
