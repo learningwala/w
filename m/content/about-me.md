@@ -6,27 +6,15 @@ weight: 2
 
 ![Mihir Pathak](/mp-about.png)
 
-I am passionate educator working in a formal and informal learning environments for the past 11 years. 
-
 **I craft transformative learning journeys with children and young adults through experiential methodologies:**
 
-My keen interest is on building human to human relationships acknowledging one’s inner strengths and uniqueness. Supporting an individual getting to connect with their potential rather then having self judgement or need of external validation.
+I am working with children, young adults and educators since last 11 years. I have worked with a formal & informal learning spaces during this journey. 
 
-My offerings :
+My core interest is developing life skills & environmental consciousnesses through theater, outdoor & interdisciplinary project based transformative experiences.
 
-- Project based learning programs
-- Movement & Theater based programs
-- Nature / Outdoor based programs
+I also work with teenagers as companion in their self directed journey / gap year
 
-- Workshops, Residential camps, Yatras, Internships, Weekly meetups, 
-- Developing informal learning spaces (Clubs, Maker Space, Library, Studio).
-- Mentorship for 'self design learning' programs (fellowships / Passion Projects)
-
-With a decade of experience, I consult for a number of learning spaces across India.
-
-At times, I engage in educational content, curriculum, and product development. While it's not always fun or meaningful, I appreciate the creative process and the opportunity to apply my experience of working with children and teachers.
-
-As an amateur writer, I enjoy crafting poetry and aspire to write stories, poems, and plays for children. So far, I have self-published two books in Gujarati.
+Inspired from the philosophy of J.Krishnmurti, Martin Buber & science of child development I work with educators to help them to create transformative learning experiences in their context/learning spaces.
 
 When I’m not with children or educators, I immerse myself in writing poetry or documenting my ’learning experiments'.
 

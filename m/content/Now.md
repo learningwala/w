@@ -79,16 +79,20 @@ Apart from these I am planing to work with children and teachers at chetan balwa
 - Theater 
 - Nature based activities 
 
+Mentoring PhD student for development a curriculum based on environmental stories from Indian texts for adolescents (13-17)
+
 **8. Work with [Nature Classrooms (Nature conservation Foundation)](https://www.natureclassrooms.org/) :** Tanaya from Nature Classroom got a grant to develop open sourced nature education assessment tool / framework. We are trying their ideas in our work in Vadodara and giving feedback.
 
 **9. Work with [Reap Benifit](https://www.reapbenefit.org/) :** During local khoji program I collbrated with reap benifit folks to design final workshop of children. I want to keep in touch with them to do carve out new possiblities to enage our children.
 
 --------------
 
-**I am working as senior content developer (environment domain in learning for life team - PraDigi / Pratham Education Foundation ) :**
-My work includes Writing scripts, making videos and other digital content for topics related to climate / nature / environment education.
+~~**I am working as senior content developer (environment domain in learning for life team - PraDigi / Pratham Education Foundation ) :**
+My work includes Writing scripts, making videos and other digital content for topics related to climate / nature / environment education.~~
 
-Creating digital content for children age 10 to 14yrs to foster creativity, collaboration, communication and problem solving 
+~~Creating digital content for children age 10 to 14yrs to foster creativity, collaboration, communication and problem solving~~
+
+(I left this work on 15th Nov 2024)
 
 ---------------
 
@@ -98,4 +102,4 @@ Creating digital content for children age 10 to 14yrs to foster creativity, coll
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
-Inspiration: [nownownow.com](nownownow.com) | last updated on 6nd Oct 2024
+Inspiration: [nownownow.com](nownownow.com) | last updated on 18th Nov 2024

@@ -10,6 +10,8 @@ weight: 3
 
 ### Vadodra - May 2024 to Present
 
+- [Residential Camp with children | Theme - 5 elements](https://www.instagram.com/p/DCYoeJvyymd/?img_index=1), [invitation](https://www.instagram.com/p/DBvG_FNyM-a/?img_index=1) 9th & 10th Nov 2024
+
 - [Ramkrishna Mission, Vadodra | Food, Why reading food packet label is important ?](https://www.instagram.com/p/DBtuR-Eyts8/?img_index=1) (facilitated by Nidhi) | 27th Oct 2024
 
 - [SAF Learning center | Birds around us](https://www.instagram.com/p/DBtx4Ioyakk/?img_index=1) (facilitated by Nidhi) | 26th Oct 2024
