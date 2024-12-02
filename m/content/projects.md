@@ -10,6 +10,11 @@ weight: 3
 
 ### Vadodra - May 2024 to Present
 
+- Tree Walk session at SAF CLC (Facilitated by Nidhi) | 30th Nov 2024 
+
+- Games session at SAF CLC (Facilitated by Nidhi) | 23rd Nov 2024
+
+- [Team skill workshop at Conversio - Ahemdabad](https://www.linkedin.com/posts/conversios_teambonding-collaboration-workculture-ugcPost-7265632371226406912-LdV3?utm_source=share&utm_medium=member_desktop) | 19th Nov 2024
 - [Residential Camp with children | Theme - 5 elements](https://www.instagram.com/p/DCYoeJvyymd/?img_index=1), [invitation](https://www.instagram.com/p/DBvG_FNyM-a/?img_index=1) 9th & 10th Nov 2024
 
 - [Ramkrishna Mission, Vadodra | Food, Why reading food packet label is important ?](https://www.instagram.com/p/DBtuR-Eyts8/?img_index=1) (facilitated by Nidhi) | 27th Oct 2024
