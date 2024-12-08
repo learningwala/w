@@ -6,15 +6,28 @@ weight: 2
 
 ![Mihir Pathak](/mp-about.png)
 
-I am a passionate educator, working with children, young adults, and fellow educators for the last 11 years. 
 
-I create transformative learning journeys using experiential methodologies, including theater, nature-based explorations, and interdisciplinary projects.
+Hi, This is Mihir Pathak aka learningwala
+
+I am passionate educator. 
+
+I never been to formal school after completing 10th grade. I am working with children since the age of 18. 
+During this decade long journey, I worked in a formal & informal learning spaces. Worked with children directly , shared my understanding of education and pedagogy with teachers, developed content, curricula & more. 
+
+My core interests areas are 'love & Relationship in education', Child development & learning, language pedagogy and children literature, life skills education and ecological consciousness / nature education.
 
 My work is deeply inspired by the philosophies of [J. Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti), [Martin Buber](https://infed.org/mobi/martin-buber-on-education/) , and the science of brain, learning, and child development. 
 
-I focus on building [genuine relationships with children](http://21stcenturylearners.org.uk/?p=1297), fostering [life skills](https://www.unicef.org/india/media/2571/file/Comprehensive-lifeskills-framework.pdf), [ecological consciousness](https://www.dunami-somatics.com/post/ecological-consciousness-and-awareness), and exploring the [Panchkosha model of human development](https://en.wikipedia.org/wiki/Kosha).
+**I create transformative learning journeys for children, young adults and educators using experiential methodologies, including theater, nature-based explorations, and interdisciplinary projects.**
 
-I am part of the core team for the ['Child Development, Learning & Special Needs'](https://www.eklavya.in/about-us-eklavya/what-we-do-eklavya-new/courses-and-workshops/child-development-special-needs-and-learning-a-certificate-course) course at Eklavya Foundation and a proud recipient of the Earth Educator Fellowship (2022-23), supported by the [Youth Conservation Action Network](https://www.youcan.in/).
+I am part of the faculty team for the ['Child Development, Learning & Special Needs'](https://www.eklavya.in/about-us-eklavya/what-we-do-eklavya-new/courses-and-workshops/child-development-special-needs-and-learning-a-certificate-course) course at Eklavya Foundation, Bhopal. and a proud recipient of the Earth Educator Fellowship (2022-23), supported by the [Youth Conservation Action Network](https://www.youcan.in/).
+
+As an amateur writer, I enjoy crafting poetry and aspire to write stories, poems, and plays for children. So far, I have self-published two books in Gujarati.
+
+When I’m not with children or educators, I immerse myself in writing poetry or documenting my ’learning experiments'.
+
+Music, long walks, bird watching, singing, and sketching are my favorite time accelerators.
+
 
 
 --------

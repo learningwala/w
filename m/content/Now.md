@@ -83,7 +83,9 @@ Mentoring PhD student for development a curriculum based on environmental storie
 
 **8. Work with [Nature Classrooms (Nature conservation Foundation)](https://www.natureclassrooms.org/) :** Tanaya from Nature Classroom got a grant to develop open sourced nature education assessment tool / framework. We are trying their ideas in our work in Vadodara and giving feedback.
 
-**9. Work with [Reap Benifit](https://www.reapbenefit.org/) :** During local khoji program I collbrated with reap benifit folks to design final workshop of children. I want to keep in touch with them to do carve out new possiblities to enage our children.
+**9. Work with [Reap Benifit](https://www.reapbenefit.org/) :** During local khoji program I collaborated with reap benefit folks to design final workshop of children. I want to keep in touch with them to do carve out new possibilities to enage our children.
+
+**10. Unifly Collective :** They are facilitating project based learning in Gov schools. My work will be evaluating projects done by children in theme of environment & sustainability. 
 
 --------------
 
@@ -94,6 +96,8 @@ My work includes Writing scripts, making videos and other digital content for to
 
 (I left this work on 15th Nov 2024)
 
+I am helping Project DEFY to do capacity building of team working in self learning spaces at Meghlaya. (It is 3 month long remote assignment. Starting from 25th Nov 2024 )
+
 ---------------
 
 - [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
@@ -102,4 +106,4 @@ My work includes Writing scripts, making videos and other digital content for to
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
 
-Inspiration: [nownownow.com](nownownow.com) | last updated on 18th Nov 2024
+Inspiration: [nownownow.com](nownownow.com) | last updated on 7th Dec 2024

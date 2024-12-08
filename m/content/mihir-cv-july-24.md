@@ -17,18 +17,18 @@ Coaching & Mentoring • Child Development & Learning • Applied Theatre
 
 ## Summary
 
-I am passionate educator working at formal and informal learning environments for the past 11 years. 
+I am passionate educator. 
 
-**I craft transformative learning journeys with children and young adults through experiential methodologies.**
+I never been to formal school after completing 10th grade. I am working with children since the age of 18. 
+During this decade long journey, I worked in a formal & informal learning spaces. Worked with children directly , shared my understanding of education and pedagogy with teachers, developed content, curricula & more. 
 
+My core interests areas are 'love & Relationship in education', Child development & learning, language pedagogy and children literature, life skills education and ecological consciousness / nature education.
 
-**Highlights :** 
+My work is deeply inspired by the philosophies of [J. Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti), [Martin Buber](https://infed.org/mobi/martin-buber-on-education/) , and the science of brain, learning, and child development. 
 
-- I started my journey as an educator at the age of 19. In past 11 years I have worked with children and young adults from different socio economic backgrounds.
+I create transformative learning journeys for children, young adults and educators using experiential methodologies, including theater, nature-based explorations, and interdisciplinary projects.
 
-- I am part of faculty team for the 'Child Development & learning - certificate course for educators' facilitated by Eklavya Foundation & Delhi Univesity.
-
-- I am practitioner of 'Project Based learning', 'Applied Theater' & 'Nature Based learning'.
+I am part of the faculty team for the ['Child Development, Learning & Special Needs'](https://www.eklavya.in/about-us-eklavya/what-we-do-eklavya-new/courses-and-workshops/child-development-special-needs-and-learning-a-certificate-course) course at Eklavya Foundation, Bhopal. and a proud recipient of the Earth Educator Fellowship (2022-23), supported by the [Youth Conservation Action Network](https://www.youcan.in/).
 
 
 ---------
@@ -77,20 +77,10 @@ I am passionate educator working at formal and informal learning environments fo
 
 ## Experience
 
-### Pradigi (Pratham Shah Digital Innovation Center) - Sr. Content Developer 
-
-```
-Vadodara (Gujarat) - May 2024 - Present (5 months)
-```
-
-My work includes Writing scripts, making videos and other digital content for topics related to climate / nature / environment education.
-
-Creating digital content for the project called Creativity Club (fostering creativity, collaboration, communication and problem solving through project based learning methdology)
-
 ### LearningWala Studio - Learning Facilitator
 
 ```
-Vadodara (Gujarat) - Jan 2021 - Present (3 years 7 months)
+Vadodara (Gujarat) - Jan 2021 - Present (4 years)
 ```
 I craft transformative learning journeys with children and young adults through experiential methodologies.
 
@@ -113,6 +103,17 @@ With a decade of experience, I consult for a number of learning spaces across In
 Skills: Coaching & Mentoring · learning Facilitation
 Experiential Learning · Project Based Learning
 ```
+
+### Pradigi (Pratham Shah Digital Innovation Center) - Sr. Content Developer 
+
+```
+Vadodara (Gujarat) - May 2024 - Nov 2024 (7 months)
+```
+
+My work includes Writing scripts, making videos and other digital content for topics related to climate / nature / environment education.
+
+Creating digital content for the project called Creativity Club (fostering creativity, collaboration, communication and problem solving through project based learning methdology)
+
 
 ### BeMe - Democratic and Alternate Learning Space - Learning Facilitator
 

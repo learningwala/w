@@ -180,7 +180,7 @@ weight: 3
 
 [\- क्या प्रकृति समताकारी शिक्षण के लिए सही जगह हो सकती है? (IN HINDI)](https://vikalpsangam.org/article/kya-prakriti-samtakari-shikshan-ke-liye-sahi-jagah-ho-sakti-hai-in-hindi/)
 
-*   Hindi translation of book 'There is nothing there' by Nature Classroom / Nature Conservation Foundation (Coming soon)
+*   [Hindi translation of book 'There is nothing there' by Nature Classroom / Nature Conservation Foundation](https://www.instagram.com/p/C6qlyASSn2G/)
 
 *   [Ecobuddy Magazine by children](https://drive.google.com/file/d/1BP4kSWICew311UJA1X0Tb5C7-dWT2Fcj/view)
 
