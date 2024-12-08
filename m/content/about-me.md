@@ -14,7 +14,7 @@ I am passionate educator.
 I never been to formal school after completing 10th grade. I am working with children since the age of 18. 
 During this decade long journey, I worked in a formal & informal learning spaces. Worked with children directly , shared my understanding of education and pedagogy with teachers, developed content, curricula & more. 
 
-My core interests areas are 'love & Relationship in education', Child development & learning, language pedagogy and children literature, life skills education and ecological consciousness / nature education.
+My core interests areas are 'love & Relationship in education', Self directed learning & non formal learning spaces, Child development & learning, language pedagogy and children literature, life skills education and ecological consciousness / nature education.
 
 My work is deeply inspired by the philosophies of [J. Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti), [Martin Buber](https://infed.org/mobi/martin-buber-on-education/) , and the science of brain, learning, and child development. 
 
