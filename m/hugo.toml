@@ -78,4 +78,4 @@ enableRobotsTXT = true
   # email is also added to the footer of each post
   [params.author]
     name = "Mihir Pathak" # Your name as shown in the RSS feed metadata
-    email = "mihir@learningwala.in" # Added to the footer so readers can reply to posts
+    email = "learningwalamihir@gmail.com" # Added to the footer so readers can reply to posts
