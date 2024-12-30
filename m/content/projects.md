@@ -10,11 +10,18 @@ weight: 3
 
 ### Vadodra - May 2024 to Present
 
+- Pinhole camera making session at SAF CLC (Facilitated by Nidhi) | 28th Dec 2024
+
+- 3 days residential camp with children age 6 to 16 (14 children) (Facilitated be Nishtha, Nidhi, Mihir), Jambughoda | 21, 22, 23rd Dec 2024
+
 - Tree Walk session at SAF CLC (Facilitated by Nidhi) | 30th Nov 2024 
+
+- Child Development, learning & Special Needs | Certificate course by @eklavya.foundation | Batch 7 - 2024 - 25 | Workshop 1 - 26th to 30th Nov 2024 |Bhopal
 
 - Games session at SAF CLC (Facilitated by Nidhi) | 23rd Nov 2024
 
-- [Team skill workshop at Conversio - Ahemdabad](https://www.linkedin.com/posts/conversios_teambonding-collaboration-workculture-ugcPost-7265632371226406912-LdV3?utm_source=share&utm_medium=member_desktop) | 19th Nov 2024
+- [Team skill workshop at Conversio - Ahemdabad](https://www.linkedin.com/posts/conversios_teambonding-collaboration-workculture-ugcPost-7265632371226406912-LdV3?utm_source=share&utm_medium=member_desktop) (Facilitated by Mihir & Mitali ben ) | 19th Nov 2024
+
 - [Residential Camp with children | Theme - 5 elements](https://www.instagram.com/p/DCYoeJvyymd/?img_index=1), [invitation](https://www.instagram.com/p/DBvG_FNyM-a/?img_index=1) 9th & 10th Nov 2024
 
 - [Ramkrishna Mission, Vadodra | Food, Why reading food packet label is important ?](https://www.instagram.com/p/DBtuR-Eyts8/?img_index=1) (facilitated by Nidhi) | 27th Oct 2024
