@@ -13,9 +13,8 @@ tags = ["Personal"]
 {{< instagram C3eld_uSrjj >}}
 
 
-- In Feb I have visited Chennai beach to see turtle nesting with Harshit (student from BeMe). It was very new experience for me. 
+- In Feb I have visited Chennai beach to see turtle nesting with Harshit (student from BeMe). [It was very new experience for me](https://www.instagram.com/p/C30Qx76tfhv/?img_index=1). 
 
-{{< instagram C30Qx76tfhv >}} 
 
 - I met many inspiring & intersting people this year - [Jane Sahi](https://www.instagram.com/p/C21GbryIQ97/?img_index=1), [Arun V](https://www.instagram.com/p/C30Qx76tfhv/?img_index=1), [Anand Chitipothu](https://www.instagram.com/p/C51RvfvoGYh/?img_index=1), [Paras Chopra](https://invertedpassion.com/) & [Aakansha Gaur](https://www.instagram.com/wowsig/?hl=en), [Nature Classroom team](https://www.instagram.com/p/C59-MIZIeKj/) , [ATREE Water workshop](https://www.instagram.com/p/C14ocvOIbaO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [Sci Gallary BLR taeam](https://www.instagram.com/p/C2gbwwFItFS/?img_index=1), [Anish & Junuka](https://www.instagram.com/p/C6Dvv9yoMh1/)
 
@@ -132,6 +131,26 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 
 	he didn't find meaning in this type of exploration time, he became phone - game addict, he bought new iphone and it was game changer for him... in short some mistake from our side, some expectation from his side.. it didn't work out. I was so happy when he went back home. I was genuinely concerned and still I am concerned about his future. I never thought bad about him but our expectation didn't match. We were super busy in our work we really didn't give proper time to him... it was wrong timing. 
 
+
+### Proudest moments of the year, Things you don't like about this year, something you learnt about yourself
+
+- Our work got recognized : [ebird - meet the educator article](https://www.early-bird.in/meet-an-educator-mihir-pathak/) 
+- I could manage to do local khoji event even with the stress and work load of pratham 
+- We (Nidhi, Mihir, Impana) managed to do 'A matter of time' exhibition. I was on cloud 7 :)
+- This year I wrote regular [weekly notes](https://learningwala.in/tags/weekly-notes/) on my website from week 12 to week 52 = 40 weeks = 10 months. I never thought that I will continue this habit. But I did. I am proud of it.
+
+
+
+- This year was very stressful and I felt serious anxiety many a times. Because of nature of work at Pratha,Home / family issues 
+- This year I contributed / spent big amount of grant money and pratham's salary money for marriage prep, which I didn't like. I wanted to use that money for children or save it for future. Any way I am happy that we did camp from that money. 
+
+- I took logistic responsibility for the residential camps we did this year. I invited Nidhi, Nishtha and Prerna for facilitation. It was a good experience for me. I learnt about my self that I enjoy doing this type of work also 
+- The idea of sangha - tribe - community got stronger in mind this year. I learnt that if you want to walk on this path of alternatives you need strong sangha.. and you need to selflessly contribute in that sangha 
+- This year tested my and nidhi's bonding.. hard time.. stress.. things we hated came back to us...but we are strong & together. Thank you so much Nidhi for being you. 
+- All these years I was very confused about my offering in education. I am not a subject teacher, I am not a teacher trainer, I don't want to start NGO to scale things.. what exactly I want to do ? This year I got some answers :
+
+ {{< instagram DD_peFtyIJ_ >}}
+
 ### What next ?
 
 - Need to figure out work. Gopaldham and Balgokulam people will reply in mid Jan. After that we will take a call. I am mostly inclined towards going to mitali ben's school for 1 year and then going back to BLR / stay back if we get regular funding. 
@@ -143,8 +162,8 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 
 - I am prying to universe to give me strength to manage my wedding event peacefully 
 
-	I am not able to think more than this right now. let's hope for the best. At this moment I just want to say thank you to Nidhi for always being with me in every situation and all my friends and extended family. 
-
+	After writing this much I still feel I missed something..but it's ok. I will update here if I remember something. 
+	let's hope for the best. At this moment I just want to say thank you to Nidhi for always being with me in every situation. Thank you so much to all my friends and extended family. 
 
 
 
