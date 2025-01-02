@@ -138,8 +138,9 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 - I could manage to do local khoji event even with the stress and work load of pratham 
 - We (Nidhi, Mihir, Impana) managed to do 'A matter of time' exhibition. I was on cloud 7 :)
 - This year I wrote regular [weekly notes](https://learningwala.in/tags/weekly-notes/) on my website from week 12 to week 52 = 40 weeks = 10 months. I never thought that I will continue this habit. But I did. I am proud of it.
+- In first week of Dec I visited BLR to attend [wipro partners](https://www.instagram.com/p/DDd2w5movCJ/?img_index=1) (my reflections) forum and meeting children at BeMe. Meeting children from 12+ group was a joy for me.
 
-
+![BeMe Children ](/2024/beme.jpeg)
 
 - This year was very stressful and I felt serious anxiety many a times. Because of nature of work at Pratha,Home / family issues 
 - This year I contributed / spent big amount of grant money and pratham's salary money for marriage prep, which I didn't like. I wanted to use that money for children or save it for future. Any way I am happy that we did camp from that money. 
