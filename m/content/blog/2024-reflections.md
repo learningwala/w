@@ -46,7 +46,8 @@ Happiest moment was when our friends came to the event and stood with us.
 
 ### Work at Vadodra 
 
-Nidhi rented out flat and started working with Rameshwari ben and Amit bhai. 
+- Nidhi rented out flat and started working with Rameshwari ben and Amit bhai. 
+
 
 detail report about the work - [here](https://www.canva.com/design/DAGaq8utmtg/O439oGkID5vYzoAcNmCFkQ/view?utm_content=DAGaq8utmtg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2c229f4669#1)
 
@@ -94,7 +95,7 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 
 	Now we are stuck, we have very limited option at vadodra / ahemdabad for meaningful and well paid work. After eliminating many options right now we left with very few :
 
-	1. **Mitali ben's school :** Ravi bhai is willing to continue grant next year also, Aakansha also offered that if I can help her in some admin work of 'escape velocity grant' she can offer grant for one more year. With this assurance we can move to Mitali ben's school 2hrs far from vadodra and work there. Next year we can again search for grant. Also we can find out some part time / remote work if possible. 
+	1. **Mitali ben's school :** Ravi bhai is willing to continue grant next year also, Aakansha also offered that if I can help her in some admin work of 'escape velocity grant' she can offer grant for one more year. With this assurance we can move to Mitali ben's school 2hrs far from vadodra and work there. Next year we can again search for grant. (Inlaks Grants, The Circle incubation) Also we can find out some part time / remote work if possible. 
 
 	**Pros :** we can work directly with children, we can develop nature education curriculum / do action reasecrh. Nidhi and me can work on our health, we can also be near to my family. We can also work with other orgs in Vadodra because it is just 2hrs away. 
 
@@ -132,10 +133,10 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 	he didn't find meaning in this type of exploration time, he became phone - game addict, he bought new iphone and it was game changer for him... in short some mistake from our side, some expectation from his side.. it didn't work out. I was so happy when he went back home. I was genuinely concerned and still I am concerned about his future. I never thought bad about him but our expectation didn't match. We were super busy in our work we really didn't give proper time to him... it was wrong timing. 
 
 
-### Proudest moments of the year, Things you don't like about this year, something you learnt about yourself
+### Reflections : Proudest moments of the year, Things you don't like about this year, something you learnt about yourself
 
-- Our work got recognized : [ebird - meet the educator article](https://www.early-bird.in/meet-an-educator-mihir-pathak/) 
-- I could manage to do local khoji event even with the stress and work load of pratham 
+- Our work got recognized : [ebird - meet the educator article](https://www.early-bird.in/meet-an-educator-mihir-pathak/) - feeling proud.
+- I could manage to do local khoji event even with the stress and work load of pratham. I could have done better if I have time. I really didn't get time for the facilitating the project. 
 - We (Nidhi, Mihir, Impana) managed to do 'A matter of time' exhibition. I was on cloud 7 :)
 - This year I wrote regular [weekly notes](https://learningwala.in/tags/weekly-notes/) on my website from week 12 to week 52 = 40 weeks = 10 months. I never thought that I will continue this habit. But I did. I am proud of it.
 - In first week of Dec I visited BLR to attend [wipro partners](https://www.instagram.com/p/DDd2w5movCJ/?img_index=1) (my reflections) forum and meeting children at BeMe. Meeting children from 12+ group was a joy for me.
@@ -143,7 +144,11 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 ![BeMe Children ](/2024/beme.jpeg)
 
 - This year was very stressful and I felt serious anxiety many a times. Because of nature of work at Pratha,Home / family issues 
-- This year I contributed / spent big amount of grant money and pratham's salary money for marriage prep, which I didn't like. I wanted to use that money for children or save it for future. Any way I am happy that we did camp from that money. 
+- This year I first time tried fund raising. I pitched our work and managed to raised 9L rupees for a year from individual donors. I am very very grateful to them for trusting us.
+- I did session with corporate team for first time. Thank you Mitali ben for co- facilitating. 
+- This year I contributed / spent big amount of grant money and pratham's salary money for marriage prep, which I didn't like. I wanted to use that money for children or save it for future. Any way I am happy that we did camp from that money.
+- This year also I am part of Child Development and learning course at Eklavya. I co facilitated sessions this time. After the physical workshop we as team to need to be more active to respond the participant's need. But I felt that other team members are busy with other work and not able to give priority to this. It is frustrating for me.
+- This year we (Nidhi and Mihir) took many workshops and sessions with different age groups. In 2025 we want to take up one project and do deeper work in that. We will take up the project of developing curriculum for Nature Detective program (age 3 to 11yrs) and for older age group we will work with children from sai's angel foundation. We will also plan to do action research kind of thing with Nature Classroom.
 
 - I took logistic responsibility for the residential camps we did this year. I invited Nidhi, Nishtha and Prerna for facilitation. It was a good experience for me. I learnt about my self that I enjoy doing this type of work also 
 - The idea of sangha - tribe - community got stronger in mind this year. I learnt that if you want to walk on this path of alternatives you need strong sangha.. and you need to selflessly contribute in that sangha 
@@ -154,7 +159,8 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 
 ### What next ?
 
-- Need to figure out work. Gopaldham and Balgokulam people will reply in mid Jan. After that we will take a call. I am mostly inclined towards going to mitali ben's school for 1 year and then going back to BLR / stay back if we get regular funding. 
+- Work front : till 15th March 2025 - Project DEFY's work is there. 
+- Need to figure out work after that. Gopaldham and Balgokulam people will reply in mid Jan. After that we will take a call. I am mostly inclined towards going to mitali ben's school for 1 year and then going back to BLR / stay back if we get regular funding. If we go to mitali ben's school, we will take up curriculum development project for nature detective and also collaborate with nature classroom for action research & material development.
 - I want to continue work in vadodara. Specially with sai's angel foundation. We (Rameshwari ben , Ashish bhai, Saurabh bhai, Nikita ben, Suraj, Mihir & Nidhi) started one fellowship program for teenager. It's kind of swaraj university model / beme model / self directed learning / relationship model. It was a longest wish to do this type of work with youth. I am looking forward to that.  
 
 ![Sakha Fellowship ](/2024/sakha1.jpeg)
