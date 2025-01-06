@@ -43,7 +43,8 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 - [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
 - [About](/about-me) &rarr; On this page I have put my offerings & my personal educational philosophy 
-- [Projects](/projects) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
+- [Work](/work) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
+- [Offerings](/offerings.pdf) &rarr; Here you can find educational offerings / our programs 
 
