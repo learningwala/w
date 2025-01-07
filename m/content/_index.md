@@ -21,7 +21,7 @@ Welcome to my small space on the internet.
 - [Work](/work) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
-- [Offerings](/offerings.pdf) &rarr; Here you can find educational offerings / our programs 
+- [Offerings](/offerings) &rarr; Here you can find educational offerings / our programs 
 
 **Find me on :** [Instagram](https://www.instagram.com/learningwala/) | [Medium](https://medium.com/learningwala) | [LinkedIn](https://www.linkedin.com/in/learningwalamihir/) | [Linktree](https://linktr.ee/learningwala)
 

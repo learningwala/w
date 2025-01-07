@@ -46,5 +46,5 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 - [Work](/work) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
 - [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
 - [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
-- [Offerings](/offerings.pdf) &rarr; Here you can find educational offerings / our programs 
+- [Offerings](/offerings) &rarr; Here you can find educational offerings / our programs 
 
