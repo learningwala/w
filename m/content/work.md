@@ -6,13 +6,17 @@ weight: 3
 
 ### Workshops / Sessions / Other work
 
-Mihir & Nidhi works with children, young adults & educators around life skills, ecological consciousness and interdisciplinary approach through workshops, residential camps, regular programs and more. This page is list / documentation of work they are doing at different places. **Please visit this page to know more about [offerings](/offerings) / programs with different age groups.**
+Mihir & Nidhi works with children, young adults & educators around life skills, ecological consciousness and interdisciplinary approach through workshops, residential camps, regular programs and more. This page is list / documentation of work they are doing at different places. 
+
+**Please visit this page to know more about [offerings](/offerings) / programs with different age groups.**
 
 ---------
 
 ### Vadodra - Jan 2025 - Present 
 
-- learning collective - workshop with educators from different NGOs / learning centers | Sai's Angel Foundation | 11th Jan 2025
+- [Launch of the Sakha Fellowship](https://www.instagram.com/p/DE0JwJXypmi/) | 12th Jan 2025
+
+- [Workshop with educators from different NGOs / learning centers](https://www.instagram.com/p/DE0HQJvS3YC/?img_index=1) | Sai's Angel Foundation | 11th Jan 2025
 
 - Paper Tower making activity at SAF CLC (Facilitated by Nidhi) | 4th Jan 2025
 
