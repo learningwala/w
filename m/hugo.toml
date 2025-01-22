@@ -22,7 +22,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = "Mihir Pathak"
+    title = "Mihir Pathak | મિહિર પાઠક"
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"

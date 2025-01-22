@@ -49,4 +49,7 @@ weight: 6
 
 *   [Webinar with Aditi (Aarohi life Education) hosted by Praveen](https://www.instagram.com/p/CIgKVrTpsoe/?img_index=1)
 
+*   [Creative Educator Series Session #4 featuring Nidhi Pal
+](https://www.youtube.com/watch?v=bJ9IN5sXsUk)  (Nidhi's first interview. Published on 19th Jan 2025)
+
 -------

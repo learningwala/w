@@ -13,9 +13,23 @@ I am passionate educator.
 
 I never been to formal school after completing 10th grade. Later, I completed my 12th grade and pursued a BA in Sociology as an external student. I am working with children since the age of 18. 
 
+Instead of going to school, I spent time exploring website & software development, sales & marketing, theater, writing, design, technology, entrepreneurship and many more interests.
+
+I started working with children through teaching computer, exploring ['MIT Scratch'](https://scratch.mit.edu/) , making [Arvind Gupta toys](https://www.arvindguptatoys.com/), telling stories, playing games and more.
+
+Slowly after lots of experimentation I realized that I like being with children & young adults, I can be my self and do creative experiments with them. I started volunteering in different schools, meeting inspiring, passionate educators and children, visited different learning spaces across India, read books & attended workshops.
+
+And that's how my journey started as an educator, which is evolving every day.
+
 During this decade long journey, I worked in a formal & informal learning spaces. Worked with children directly, shared my understanding of education and pedagogy with teachers, developed content, curricula & more. 
 
-My core interests areas are understanding 'The role of love & Relationship in education', Self directed learning & non formal learning spaces, Child development & learning, language pedagogy and children literature, life skills education and ecological consciousness / nature education.
+**My current core interest areas are** 
+
+- Understanding the role of love & Relationship in education
+- Self directed learning & non formal learning spaces 
+- Child development & learning
+- Language pedagogy and children literature
+- Life skills education and ecological consciousness / nature education
 
 My work is deeply inspired by the philosophies of [J. Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti), [Martin Buber](https://infed.org/mobi/martin-buber-on-education/) , and the science of brain, learning, and child development. 
 
