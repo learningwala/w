@@ -4,9 +4,7 @@ menu: "main"
 weight: 1
 ---
 
-![Mihir Pathak](/mp.b.png)
-
-<img src="/mp.b.png" alt="Mihir Pathak"	>
+{{< figure src="/index/mihirprofile.jpg/" alt="Description of the image" caption="Mihir Pathak - Surat - 2021" class="full-width-img" >}}
 
 
 Hi, This is Mihir aka learningwala.

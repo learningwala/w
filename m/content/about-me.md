@@ -4,8 +4,7 @@ menu: "main"
 weight: 2
 ---
 
-![Mihir Pathak](/mp-about.png)
-
+### About me : 
 
 Hi, This is Mihir Pathak aka learningwala
 
