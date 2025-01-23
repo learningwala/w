@@ -36,7 +36,7 @@ Developing - thinking , questioning, learning, sensitive , happy, well adjustabl
 
 -------
 
-![life](/eduforme/life.png/)
+![life](/eduforme/life.png)
 
 <img src="/life.png" alt="life"	>
 
