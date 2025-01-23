@@ -34,7 +34,7 @@ Mihir & Nidhi works with children, young adults & educators around life skills, 
 
 - Tree Walk session at SAF CLC (Facilitated by Nidhi) | 30th Nov 2024 
 
-- Child Development, learning & Special Needs | Certificate course by @eklavya.foundation | Batch 7 - 2024 - 25 | Workshop 1 - 26th to 30th Nov 2024 |Bhopal
+- [Child Development, learning & Special Needs](https://www.instagram.com/p/DDFV0X4oeHA/?img_index=1) | Certificate course by @eklavya.foundation | Batch 7 - 2024 - 25 | Workshop 1 - 26th to 30th Nov 2024 |Bhopal
 
 - Games session at SAF CLC (Facilitated by Nidhi) | 23rd Nov 2024
 
