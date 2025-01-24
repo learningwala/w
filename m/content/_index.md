@@ -4,8 +4,9 @@ menu: "main"
 weight: 1
 ---
 
-{{< figure src="/index/mihirprofile.jpg" alt="Description of the image" caption="Mihir Pathak - Surat - 2021" class="full-width-img" >}}
+{{< figure src="/index/mihirprofile.jpg" alt="Description of the image" caption="Mihir Pathak - Surat - 2021" width="720px">}}
 
+-------------
 
 Hi, This is Mihir aka learningwala.
 
