@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Year 2024 - reflections"
 date = "2024-12-31"
 description = "Year end reflection"
-tags = ["Personal"]
+tags = ["Public"]
 +++
 
 - It is difficult for me to sit and write reflection of year 2024 because biggest milestone of my life - 'Marriage' is in Feb 2025. Prep for that is going on. Me & Nidhi are also figuring out where to stay after marriage and where to work. Because of my family situation we need to stay near to my hometown Padra - Vadodara. So technically my year is still running.. but still I will try to put what ever is coming in the flow. 
@@ -41,7 +41,7 @@ tags = ["Personal"]
 
 Happiest moment was when our friends came to the event and stood with us. 
 
-![Friends at Engagement ](/2024/sagai.JPG)
+![Friends at Engagement ](/2024/sagai.JPG/)
 
 
 ### Work at Vadodra 
