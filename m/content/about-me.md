@@ -14,9 +14,9 @@ I never been to formal school after completing 10th grade. Later, I completed my
 
 Instead of going to school, I spent time exploring website & software development, sales & marketing, theater, writing, design, technology, entrepreneurship and many more interests.
 
-I started working with children through teaching computer, exploring ['MIT Scratch'](https://scratch.mit.edu/) , making [Arvind Gupta toys](https://www.arvindguptatoys.com/), telling stories, playing games and more.
+I started working with children through sharing how to use computer, exploring ['MIT Scratch'](https://scratch.mit.edu/) , making [Arvind Gupta toys](https://www.arvindguptatoys.com/), telling stories, playing games and more.
 
-Slowly after lots of experimentation I realized that :
+**Slowly after lots of experimentation I realized that :**
 
 - I like being with children & young adults, I can be my self.
 
@@ -30,9 +30,7 @@ During this decade long journey, I worked in a formal & informal learning spaces
 
 **I create transformative learning journeys for children, young adults and educators using experiential methodologies, including theater, nature-based explorations, and interdisciplinary projects.**
 
-My programs, workshops and intervention are just an anchor. 
-
-My strong intention is to create a space of healing, acceptance, and co-creation.
+My programs, workshops and intervention are just an anchor. My strong intention is to create a space of healing, acceptance, and co-creation.
 
 A space which act as an incubation center for everyone.Where we learn, experiment, challenge ourselves, and thereby break barriers and grow in our lives. 
 
@@ -46,7 +44,7 @@ A space which act as an incubation center for everyone.Where we learn, experimen
 
 My work is deeply inspired by the philosophies of [J. Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti), [Martin Buber](https://infed.org/mobi/martin-buber-on-education/) , and the science of brain, learning, and child development. 
 
-I am part of the faculty team for the ['Child Development, Learning & Special Needs'](https://www.eklavya.in/about-us-eklavya/what-we-do-eklavya-new/courses-and-workshops/child-development-special-needs-and-learning-a-certificate-course) course at Eklavya Foundation, Bhopal. and a proud recipient of the Earth Educator Fellowship (2022-23), supported by the [Youth Conservation Action Network](https://www.youcan.in/).
+I am part of the faculty team for the ['Child Development, Learning & Special Needs'](https://www.eklavya.in/about-us-eklavya/what-we-do-eklavya-new/courses-and-workshops/child-development-special-needs-and-learning-a-certificate-course) course at Eklavya Foundation, Bhopal. And a proud recipient of the Earth Educator Fellowship (2022-23), supported by the [Youth Conservation Action Network](https://www.youcan.in/).
 
 As an amateur writer, I enjoy crafting poetry and aspire to write stories, poems, and plays. So far, I have self-published two books in Gujarati.
 

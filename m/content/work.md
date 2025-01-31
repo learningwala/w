@@ -14,6 +14,8 @@ Mihir & Nidhi works with children, young adults & educators around life skills, 
 
 ### Vadodra - Jan 2025 - Present 
 
+- [Biology of Money](https://www.instagram.com/p/DFSsmjuscyh/?img_index=1) facilitated by Mihir | 26th Jan 2025 | Sakha Fellowship S1 | [Session summary blog post](https://learningwala.in/blog/biology-of-money/)
+
 - [Launch of the Sakha Fellowship](https://www.instagram.com/p/DE0JwJXypmi/) | 12th Jan 2025
 
 - [Workshop with educators from different NGOs / learning centers](https://www.instagram.com/p/DE0HQJvS3YC/?img_index=1) | Sai's Angel Foundation | 11th Jan 2025
