@@ -75,10 +75,3 @@ I facilitate transformative learning through tools I have discovered during my j
 
 > I feel that the most basic learning that can happen is regarding ourselves, our conditioning, the conflicts in our minds and the social expression they have, the nature of our hopes, desires, ambitions and frustrations, and about what it means to live a fundamentally deep and peaceful life. My educational practice is an exploration of these questions.
 -------
-
-- [Now](/now) &rarr; On this page I keep an up-to-date list of the things I'm focusing on and what I'm doing NOW.
-- [About](/about-me) &rarr; On this page I have put my offerings & my personal educational philosophy 
-- [Work](/work) &rarr; On this page I keep an up-to-date list of all my projects + sessions / workshops with children / teachers.
-- [Writings](/writings) &rarr; Educational Writing, Classroom Experiences and more
-- [Notes](https://learningwala.in/tags/public/) &rarr; Occasional short notes on education system / learning / tech & many other things 
-- [Offerings](/offerings) &rarr; Here you can find educational offerings / our programs 

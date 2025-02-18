@@ -1,8 +1,10 @@
----
-title: "Evolutionary biology, Education and Sustainable Development"
-menu: 
-weight: 
----
++++
+author = "Mihir Pathak"
+title = "Evolutionary biology, Education and Sustainable Development"
+date = "2025-02-16"
+description = "notes"
+tags = ["notes"]
++++
 
 seekers https://www.youtube.com/watch?v=Kt7pyrrH1No
 

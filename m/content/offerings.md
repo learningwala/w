@@ -1,7 +1,7 @@
 ---
 title: "Offerings"
-menu: "main"
-weight: 7
+menu:
+weight:
 ---
 
 ### Offerings :
