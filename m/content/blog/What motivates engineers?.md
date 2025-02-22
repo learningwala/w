@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "What motivates engineers?"
 date = "2024-08-03"
 description = "What motivates engineers?"
-tags = ["Public"]
+tags = ["Blog"]
 +++
 I was listening to a podcast from Scaler called ScalerPod. Where they interview CTOs from different startups. They ask about their journey, challenges and how their typical day looks like.
 

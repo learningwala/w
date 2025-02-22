@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Database of Inspirational Organizations"
 date = "2024-06-13"
 description = "Database of Inspirational Organizations"
-tags = ["Public"]
+tags = ["Blog"]
 +++
 
 Here is your list of organizations working in youth development, life skills, active citizenship, civic-environment problem solving, self-directed learning, student agency, project-based learning, and vocational training, formatted in Markdown:

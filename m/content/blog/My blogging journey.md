@@ -4,7 +4,7 @@ title = "My blogging journey"
 date = "2024-03-14"
 description = "my journey of making my own website"
 tags = [
-    "Public"
+    "Blog"
 ]
 +++
 ## Chapter 1

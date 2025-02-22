@@ -4,8 +4,7 @@ title = "I never bought a new laptop"
 date = "2024-03-14"
 description = "My journey of buying refurbished laptop"
 tags = [
-    "Public"
-]
+    "Blog"]
 +++
 
 I have never bought new laptop in my life. I had P4 computer at home around 2008 - 9
@@ -65,7 +64,7 @@ After so much of comparing and testing I finally bought refurbished Thinkpad X1 
 ![Thinkpad X1 Carbon](/laptop//thinkpad.jpeg)
 <img src = "/laptop//thinkpad.jpeg">
 
-### My criteria was 
+### My criteria was
 - repairablity
 - possiblity to upgrade (RAM, CPU)
 - portabilty (light weight)

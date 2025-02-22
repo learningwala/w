@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "I asked chatGPT about me"
 date = "2025-02-02"
 description = "I asked chatGPT, what they know about me"
-tags = ["Public"]
+tags = ["Blog"]
 +++
 
 ### From all of our previous conversation what do yo know about me :

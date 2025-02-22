@@ -1,10 +1,8 @@
 ---
-title: "Highlight from my journey"
+title: "Highlight from my learning journey"
 menu:
 weight:
 ---
-
-### Highlights from my learning journey:
 
 - **Self-Directed Learning:** I left formal schooling after the 10th grade and explored web development, content writing, marketing, theatre, and education. Later, I completed my 12th grade and pursued a BA in Sociology as an external student. Read my journey here --> [19 year old village lad drops out of college, starts an alternative education centre](https://yourstory.com/2015/04/learnlabs-mihir-pathak/amp)
  

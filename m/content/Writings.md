@@ -23,7 +23,9 @@ weight: 5
 
 [Article on Tinkering - Teacher Plus Magazine](https://www.teacherplus.org/tinkering-how-we-can-think-with-our-hands/)
 
-[Article on Project Based Learning - Sandarbh Magazine](https://www.eklavya.in/pdfs/Sandarbh/Sandarbh_139/51-58_Story_of_Food.pdf)
+[Article on Project Based Learning - Sandarbh Magazine - Hindi](https://www.eklavya.in/pdfs/Sandarbh/Sandarbh_139/51-58_Story_of_Food.pdf)
+
+[Article on Project Based Learning - Sandarbh Magazine - Gujarati](https://drive.google.com/file/d/11CY-P-UQw4KgIWbynjCDxgUxFqH1CBc3/view?usp=sharing)
 
 [Gamle Mein Jungle by Vinod Kumar Shukla | Book Review](https://drive.google.com/file/d/1sKkTLxn8O14zU0wGwDa0jjtNTq_o6eVs/view)
 

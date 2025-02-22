@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Interesting Podcast / Courses / Blogs "
 date = "2024-05-19"
 description = "Interesting Podcast / Courses / Blogs "
-tags = ["Public"]
+tags = ["Blog"]
 +++
 
 These are some podcasts / courses / blogs I go and explore frequently. I will keep adding new things here as I discover them. 
@@ -22,7 +22,7 @@ Free will, Behavioral Biology
 ```
 
 
-### Philosophy & Ideas by Paras Chpra 
+### Philosophy & Ideas by Paras Chpra
 [Podcast](https://www.youtube.com/playlist?list=PLf5poopYVc5T8wNOcuapPVszayqsvN-6d)
 
 [Website/blog](https://invertedpassion.com/)

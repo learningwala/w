@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Year 2024 - reflections"
 date = "2024-12-31"
 description = "Year end reflection"
-tags = ["Public"]
+tags = ["Blog"]
 +++
 
 - It is difficult for me to sit and write reflection of year 2024 because biggest milestone of my life - 'Marriage' is in Feb 2025. Prep for that is going on. Me & Nidhi are also figuring out where to stay after marriage and where to work. Because of my family situation we need to stay near to my hometown Padra - Vadodara. So technically my year is still running.. but still I will try to put what ever is coming in the flow. 
@@ -44,7 +44,7 @@ Happiest moment was when our friends came to the event and stood with us.
 ![Friends at Engagement ](/2024/sagai.JPG/)
 
 
-### Work at Vadodra 
+### Work at Vadodra
 
 - Nidhi rented out flat and started working with Rameshwari ben and Amit bhai. 
 
@@ -53,7 +53,7 @@ detail report about the work - [here](https://www.canva.com/design/DAGaq8utmtg/O
 
  {{< instagram DEMta_IIDL6 >}}
 
-### Work at Pratham 
+### Work at Pratham
 
 
 Pratham was roller coaster experience. In the beginning I was very happy that I got remote job so I can stay in vadodra and also do other work. Secondly it was content development job in environment domain. My team was producing videos for topics like climate change, plastic literacy and more. There was interesting project called creativity club in our account too. Where we need to develop prompt videos for children age 10+ yrs to foster their creativity, collaboration, communication and problem solving skills. 
@@ -121,12 +121,12 @@ most of the pratham's salary is going to be used in marriage event (all the shop
 
 	I am eliminating BLR right now but we have shortlisted some org if we want to go : creative school, beme, project DEFY, seed to sapling, etc.
 
-### Health 
+### Health
 
 - Me & Nidhi both went to Nephropathy this year at Nisargupchar Kendra - Gotri, Vadodra. It is wonderful place.
 		I am suffering from stomach problems and Nidhi is suffering from skin - hair issues. (apart from our mental health) We tried following the diet for month or two.. it was magical.. it works. eating millets and doing yoga. After one point of time it got difficult for us to manage the routine and making food at home. but we want to start it again when we get new place to stay and work. This year I want to start doing regular exercise & eating healthy food. (This very basic and obvious thing but very hard to do )
 
-### Golu 
+### Golu
 
 - Nidhi's brother Tanishk aka golu was also there with us in Vadodra for few months. Nidhi invited him to take break after his 12th exam and explore options other than joining privet engineering collage. It was mistake... we were not ready. it was difficult to make some one self directed learner in short time. Also against his will. It was good learning for us to see what is happening inside us when situation like this come on our face. what happens inside us? , can we empathize ? it was tough time for me personally. 
 

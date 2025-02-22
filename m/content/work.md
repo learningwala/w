@@ -6,13 +6,17 @@ weight: 3
 
 ### Workshops / Sessions / Other work
 
-Mihir & Nidhi works with children, young adults & educators around **life skills, ecological consciousness and interdisciplinary learning** through workshops, residential camps, regular programs and more. This page is list / documentation of work they are doing at different places. 
+Mihir & Nidhi works with children, young adults & educators around life skills, ecological consciousness and interdisciplinary learning through workshops, residential camps, regular programs and more. 
 
-**Please visit this page to know more about [offerings](/offerings) / programs with different age groups.**
+This page is list / documentation of work they are doing at different places.
+
+**Please visit** 
+- [offerings](/offerings) -  to know more about programs with different age groups.
+- [Now](/now) - to know about current projects & engagement 
 
 ---------
 
-### Vadodra - Jan 2025 - Present 
+### Vadodra - Jan 2025 - Present
 
 - [Biology of Money](https://www.instagram.com/p/DFSsmjuscyh/?img_index=1) facilitated by Mihir | 26th Jan 2025 | Sakha Fellowship S1 | [Session summary blog post](https://learningwala.in/blog/biology-of-money/)
 

@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Hope"
 date = "2024-07-05"
 description = "working with youth"
-tags = ["Public"]
+tags = ["Blog"]
 +++
 
 Yesterday evening one of our local khojis called me.
