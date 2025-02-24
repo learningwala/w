@@ -16,3 +16,5 @@ tags = ["notes"]
 - Sudha Mahesh Grants for educators and teachers - email : sudhamaheshgrants@gmail.com
 
 - [International micro grants](https://github.com/nayafia/microgrants)
+
+- [Samagata Foundation](https://samagata.org/) (*Kailash Nadh from Zerodha is associated with this foundation. They support small projects for public good*)

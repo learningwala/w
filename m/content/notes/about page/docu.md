@@ -1,7 +1,7 @@
 ---
 title: "Work"
-menu: "main"
-weight: 3
+menu:
+weight: 
 ---
 
 ### Workshops / Sessions / Other work
