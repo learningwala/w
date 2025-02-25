@@ -6,6 +6,8 @@ weight: 1
 
 ![Mihir Pathak](/index/mihirprofile.jpg)
 
+**Mihir Pathak | Experiential Educator | Nature - Theater - Project based learning**
+
 -------------
 
 Hi, This is Mihir aka learningwala.
@@ -14,11 +16,12 @@ I am passionate educator, working with formal and informal learning environments
 
 I work directly with children, young adults, educators, researchers, learning experience designers on daily basis. You can read about my current engagements at **[now](/now)** page.
 
-**My current interests are :** 
+**My current areas of interest are :** 
 
 - Project based learning 
 - Nature Education 
-- Experiential learning 
+- Experiential learning
+- Theater in Education 
 - Informal learning spaces and self directed learning
 
 I tried to capture my decade long journey, my personal educational philosophy and my offerings at [about me](/about-me) page.

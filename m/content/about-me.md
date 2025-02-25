@@ -39,7 +39,7 @@ A space which act as an incubation center for everyone.Where we learn, experimen
 - Understanding the role of love & Relationship in education
 - Project based learning, Self directed learning & non formal learning spaces 
 - Child development & learning
-- Language pedagogy and children literature
+- Language pedagogy, children literature & theater in education 
 - Life skills education and ecological consciousness / nature education
 - Citizen Science Projects, Environment, Civics, Cultural projects for larger good
 
