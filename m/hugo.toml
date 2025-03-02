@@ -79,3 +79,8 @@ enableRobotsTXT = true
   [params.author]
     name = "Mihir Pathak" # Your name as shown in the RSS feed metadata
     email = "learningwalamihir@gmail.com" # Added to the footer so readers can reply to posts
+
+# Cloudinary configuration
+  [params.cloudinary]
+    cloud_name = "dfk2wsrhz"  # Your Cloudinary cloud name
+    upload_preset = ""  # Optional, for unsigned uploads if needed

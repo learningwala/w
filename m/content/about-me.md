@@ -61,13 +61,13 @@ Music, long walks, bird watching, singing, and sketching are my favorite time ac
 
 --------
 
-&rarr; **[My personal educational philosophy](/notes/about-page//edu-for-me)**
+&rarr; **[My personal educational philosophy](/about-me/edu-for-me)**
 
-&rarr; **[Highlights from my journey](/notes/about-page//highlights)**
+&rarr; **[Highlights from my journey](/about-me/highlights)**
 
-&rarr; **[My offerings](/notes/about-page//offerings)**
+&rarr; **[My offerings](/about-me/offerings)**
 
-&rarr; **[Documentation of work](/notes/about-page/docu)**
+&rarr; **[Documentation of work](/about-me/docu)**
 
 
 

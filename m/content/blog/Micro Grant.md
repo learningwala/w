@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Micro Grant"
 date = "2025-02-16"
 description = "notes"
-tags = ["notes"]
+tags = ["Blog"]
 +++
 
 ### List of micro grant for personal projects

@@ -54,7 +54,7 @@ Nidhi is going to lead this project. She will be working with primary grade chil
 
 ----
 
-- Archive : [Now 2024](/notes/now-2024/)
+- Archive : [Now 2024](/archive/now-2024/)
 
 ------
 
