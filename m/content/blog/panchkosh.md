@@ -1,9 +1,9 @@
 +++
 author = "Mihir Pathak"
-title = "Educator's guide to Panchkosha / Indian Knowledge System"
+title = "Resources for Panchkosha development / Indian Knowledge System"
 date = "2025-03-03"
 description = "documents about panchkosha development and Indian Knowledge System"
-tags = ["Blog"]
+tags = ["Blog", "learning resources"]
 +++
 
 I am writing this post to share documents, research papers and list of resource person on panchkosha and IKS. I will keep updating this post as I find new stuff. 
