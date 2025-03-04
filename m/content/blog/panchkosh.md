@@ -10,5 +10,12 @@ I am writing this post to share documents, research papers and list of resource 
 
 Documents shared by [Dr.Mahendra Chotalia](http://www.kedithepath.org/trustees.aspx) (3rd March 2025)
 
-- [पंचकोश विवेक (हिंदी) - परमहंस स्वामी योगानंद ](/panchkosh-vivek.pdf)
-- [શિક્ષણનું સમગ્રવિકાસ પ્રતિમાન (ભારતીય ગ્રંથમાળા 2 ) - ઇન્દુમતી કાટકરે ](/samgravikas.pdf)
+- [पंचकोश विवेक (हिंदी) - परमहंस स्वामी योगानंद ](https://drive.google.com/file/d/1eNSHsGTBIrxBp142cYExXT_cPMgsdBb4/view?usp=sharing)
+- [શિક્ષણનું સમગ્રવિકાસ પ્રતિમાન (ભારતીય ગ્રંથમાળા 2 ) - ઇન્દુમતી કાટકરે ](https://drive.google.com/file/d/1EjhcFzdchJOiqKva9SK-ULZjZu28wx1N/view?usp=sharing)
+
+**Resource person / places**
+
+- Indumati Katkare
+- Kirit Joshi's work (Children University)
+- Shishumandir early childhood curriculum 
+

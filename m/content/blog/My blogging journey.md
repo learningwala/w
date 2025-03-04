@@ -34,16 +34,13 @@ I was running three blogs at that time -
 - '[Sanistha kelavani](https://kelavani.wordpress.com/)' about Nai taleem education  
 - I was contributing on '[Evidyalay](http://evidyalay.net/)'  
   
-
-![Medium](/blogging/medium.png)
-<img src = "/blogging/medium.png">
-
-
 ***it was wonderful learning time***  
   
 
 ## Chapter 3
 
+![Medium](/blogging/medium.png)
+<img src = "/blogging/medium.png">
   
 I remember samyak bhai introduced me to markdown, git and something called '[Medium](https://medium.com/)' :)  
 

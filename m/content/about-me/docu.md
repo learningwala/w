@@ -16,7 +16,9 @@ This page is list / documentation of work they are doing at different places.
 
 ---------
 
-### Vadodra - Jan 2025 - Present
+### Vadodra - Jan 2025 - Feb 2025
+
+- Goal setting & self directed learning facilitated by Rameshwari ben, Ashish bhai & Mihir | 16th Feb 2025 | Sakha Fellowship S2
 
 - [Biology of Money](https://www.instagram.com/p/DFSsmjuscyh/?img_index=1) facilitated by Mihir | 26th Jan 2025 | Sakha Fellowship S1 | [Session summary blog post](https://learningwala.in/blog/biology-of-money/)
 
