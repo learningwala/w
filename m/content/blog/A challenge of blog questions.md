@@ -3,7 +3,7 @@ author = "Mihir Pathak"
 title = "Why Blog ?"
 date = "2025-03-04"
 description = "questions about blogging"
-tags = ["Blog"]
+tags = ["Blog" ]
 +++
 
 I was tagged by Thejesh on [a series of questions that he had answered about blogging](https://thejeshgn.com/2025/02/27/a-challenge-of-blog-questions/).
