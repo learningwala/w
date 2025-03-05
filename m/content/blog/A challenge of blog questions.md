@@ -27,9 +27,9 @@ I started blogging long back in 2012. At that time it was a fascination to under
 
 - Apart from weekly notes, I have three major blog post categories : 
 
-1. Filed notes : (learning experience with children / notes from session / classroom / workshop / facilitation) 
-2. Learning resources : (research papers, videos, any kind of material related to education, child development, PBL, Experiential learning and other interest areas)
-3. Other : opinion / short note / comments about technology / education / philosophy / anything
+1. **Filed notes :** (learning experience with children / notes from session / classroom / workshop / facilitation) 
+2. **Learning resources :** (research papers, videos, any kind of material related to education, child development, PBL, Experiential learning and other interest areas)
+3. **Other :** opinion / short note / comments about technology / education / philosophy / anything
 
 - I also host my published articles, creative writing and my portfolio of work on the same site.
 
