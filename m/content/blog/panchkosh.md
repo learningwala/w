@@ -12,6 +12,7 @@ Documents shared by [Dr.Mahendra Chotalia](http://www.kedithepath.org/trustees.a
 
 - [पंचकोश विवेक (हिंदी) - परमहंस स्वामी योगानंद ](https://drive.google.com/file/d/1eNSHsGTBIrxBp142cYExXT_cPMgsdBb4/view?usp=sharing)
 - [શિક્ષણનું સમગ્રવિકાસ પ્રતિમાન (ભારતીય ગ્રંથમાળા 2 ) - ઇન્દુમતી કાટકરે ](https://drive.google.com/file/d/1EjhcFzdchJOiqKva9SK-ULZjZu28wx1N/view?usp=sharing)
+- [भारतीय शिक्षा में पंचकोशाकत्मक एवं समग्र विकास की संकल्पना ](https://drive.google.com/file/d/10Lf1Z-Vp-iHODG3-YFMVA6O5MaNNpo_S/view?usp=sharing)
 
 **Resource person / places**
 

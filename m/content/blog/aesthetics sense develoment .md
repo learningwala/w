@@ -13,7 +13,9 @@ Document shared by Srivi (22nd Jan 2025)
 - [Environmental Aesthetics](https://plato.stanford.edu/entries/environmental-aesthetics/)
 - [Connecting with Nature_Connecting with Ourselves
 ](https://www.youtube.com/watch?v=gk9XlbKBeac)
+- [Research work of srivi kalyan](https://www.sriviliveshere.com/publications.html)
 
-Article by Mahendra Chotalia
+Article shared by Mahendra Chotalia
 
 - [સૌંદર્યની કેળવણીનો કીમિયો](https://drive.google.com/file/d/1biH5YOCG1NRPSQmEC1dHyPFjWedktfTt/view?usp=sharing)
+- [સૌંદર્ય વિશેષાંક - કોડિયું ](https://drive.google.com/file/d/1lV-npncLs-psLMCGzKs1e3eUPxhXI_Dj/view?usp=sharing)
